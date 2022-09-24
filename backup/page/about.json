@@ -1,0 +1,537 @@
+{
+  "createdBy": "0KS1GUNx43WgZAEkTfM99au0qiD3",
+  "createdDate": 1664028752642,
+  "data": {
+    "customFonts": [
+      {
+        "category": "sans-serif",
+        "family": "Poppins",
+        "files": {
+          "100": "https://fonts.gstatic.com/s/poppins/v5/pxiGyp8kv8JHgFVrLPTedw.ttf",
+          "200": "https://fonts.gstatic.com/s/poppins/v5/pxiByp8kv8JHgFVrLFj_V1s.ttf",
+          "300": "https://fonts.gstatic.com/s/poppins/v5/pxiByp8kv8JHgFVrLDz8V1s.ttf",
+          "500": "https://fonts.gstatic.com/s/poppins/v5/pxiByp8kv8JHgFVrLGT9V1s.ttf",
+          "600": "https://fonts.gstatic.com/s/poppins/v5/pxiByp8kv8JHgFVrLEj6V1s.ttf",
+          "700": "https://fonts.gstatic.com/s/poppins/v5/pxiByp8kv8JHgFVrLCz7V1s.ttf",
+          "800": "https://fonts.gstatic.com/s/poppins/v5/pxiByp8kv8JHgFVrLDD4V1s.ttf",
+          "900": "https://fonts.gstatic.com/s/poppins/v5/pxiByp8kv8JHgFVrLBT5V1s.ttf",
+          "100italic": "https://fonts.gstatic.com/s/poppins/v5/pxiAyp8kv8JHgFVrJJLmE3tF.ttf",
+          "200italic": "https://fonts.gstatic.com/s/poppins/v5/pxiDyp8kv8JHgFVrJJLmv1plEA.ttf",
+          "300italic": "https://fonts.gstatic.com/s/poppins/v5/pxiDyp8kv8JHgFVrJJLm21llEA.ttf",
+          "500italic": "https://fonts.gstatic.com/s/poppins/v5/pxiDyp8kv8JHgFVrJJLmg1hlEA.ttf",
+          "600italic": "https://fonts.gstatic.com/s/poppins/v5/pxiDyp8kv8JHgFVrJJLmr19lEA.ttf",
+          "700italic": "https://fonts.gstatic.com/s/poppins/v5/pxiDyp8kv8JHgFVrJJLmy15lEA.ttf",
+          "800italic": "https://fonts.gstatic.com/s/poppins/v5/pxiDyp8kv8JHgFVrJJLm111lEA.ttf",
+          "900italic": "https://fonts.gstatic.com/s/poppins/v5/pxiDyp8kv8JHgFVrJJLm81xlEA.ttf",
+          "italic": "https://fonts.gstatic.com/s/poppins/v5/pxiGyp8kv8JHgFVrJJLedw.ttf",
+          "regular": "https://fonts.gstatic.com/s/poppins/v5/pxiEyp8kv8JHgFVrFJA.ttf"
+        },
+        "kind": "webfonts#webfont",
+        "lastModified": "2017-11-21",
+        "subsets": [
+          "latin",
+          "latin-ext",
+          "devanagari"
+        ],
+        "variants": [
+          "100",
+          "100italic",
+          "200",
+          "200italic",
+          "300",
+          "300italic",
+          "regular",
+          "italic",
+          "500",
+          "500italic",
+          "600",
+          "600italic",
+          "700",
+          "700italic",
+          "800",
+          "800italic",
+          "900",
+          "900italic"
+        ],
+        "version": "v5"
+      }
+    ],
+    "description": "ABOUT Minibus Hire Service for Birmingham and all UK",
+    "httpRequests": {},
+    "inputs": [],
+    "title": "ABOUT | BHXTravel",
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "layerName": "Page",
+        "id": "builder-6d19ab74e6d548cf962929e863a7c05a",
+        "meta": {
+          "previousId": "builder-2aba28892a25478083ba59038f9f4052"
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-53545119c7334d7a832611d357b39c6c",
+            "meta": {
+              "previousId": "builder-a3983c148d004049940980def1a916e4"
+            },
+            "component": {
+              "name": "Core:Section",
+              "options": {
+                "maxWidth": 1200,
+                "lazyLoad": false
+              }
+            },
+            "children": [
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-3d321a3100924c92aa59021830beabd4",
+                "meta": {
+                  "previousId": "builder-bf207171cb3a4b36a4996611eb1bb756"
+                },
+                "component": {
+                  "name": "Columns",
+                  "options": {
+                    "columns": [
+                      {
+                        "blocks": [
+                          {
+                            "@type": "@builder.io/sdk:Element",
+                            "@version": 2,
+                            "id": "builder-dea92ab6c07d4d6db4e4404d215ead35",
+                            "children": [
+                              {
+                                "@type": "@builder.io/sdk:Element",
+                                "@version": 2,
+                                "id": "builder-5cf8b180d9404d2ea6808b8d48078ac9",
+                                "class": "hero-text",
+                                "meta": {
+                                  "previousId": "builder-789b0c0701ab4ac88ee45221f3b519bc"
+                                },
+                                "component": {
+                                  "name": "Text",
+                                  "options": {
+                                    "text": "<h1>About</h1>"
+                                  }
+                                },
+                                "responsiveStyles": {
+                                  "large": {
+                                    "display": "flex",
+                                    "flexDirection": "column",
+                                    "position": "relative",
+                                    "flexShrink": "0",
+                                    "boxSizing": "border-box",
+                                    "lineHeight": "normal",
+                                    "height": "auto"
+                                  }
+                                }
+                              },
+                              {
+                                "@type": "@builder.io/sdk:Element",
+                                "@version": 2,
+                                "id": "builder-f07a7b0e8e3a454a86c0d0a99905446d",
+                                "component": {
+                                  "name": "Text",
+                                  "options": {
+                                    "text": "<p>Our commitment to customer service and satisfaction means whatever your requirements we’ll endeavour to make your journey as safe, comfortable and most of all as enjoyable as can be possible.   </p>"
+                                  }
+                                },
+                                "responsiveStyles": {
+                                  "large": {
+                                    "display": "flex",
+                                    "flexDirection": "column",
+                                    "position": "relative",
+                                    "flexShrink": "0",
+                                    "boxSizing": "border-box",
+                                    "marginTop": "20px",
+                                    "lineHeight": "normal",
+                                    "height": "auto"
+                                  }
+                                }
+                              }
+                            ],
+                            "responsiveStyles": {
+                              "large": {
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "position": "relative",
+                                "flexShrink": "0",
+                                "boxSizing": "border-box",
+                                "marginTop": "0px",
+                                "maxWidth": "680px",
+                                "marginRight": "auto"
+                              }
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "blocks": [
+                          {
+                            "@type": "@builder.io/sdk:Element",
+                            "@version": 2,
+                            "id": "builder-06139699ed434416b48e62461e1fa841",
+                            "meta": {
+                              "previousId": "builder-6a17704ab20c4fc6b3e185fa54ee8208"
+                            },
+                            "component": {
+                              "name": "Image",
+                              "options": {
+                                "image": "https://cdn.builder.io/api/v1/image/assets%2Fc02cb8c5852a4aabbd6ab84b06225a74%2F5b4d97528bc74357b2aaaf32d8f0bea1",
+                                "backgroundSize": "cover",
+                                "backgroundPosition": "center",
+                                "lazy": false,
+                                "fitContent": false,
+                                "aspectRatio": 0.472,
+                                "lockAspectRatio": false,
+                                "height": 453,
+                                "width": 960
+                              }
+                            },
+                            "responsiveStyles": {
+                              "large": {
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "position": "relative",
+                                "flexShrink": "0",
+                                "boxSizing": "border-box",
+                                "width": "100%",
+                                "minHeight": "20px",
+                                "minWidth": "20px",
+                                "overflow": "hidden",
+                                "marginBottom": "20px"
+                              }
+                            }
+                          }
+                        ]
+                      }
+                    ],
+                    "space": 20,
+                    "stackColumnsAt": "mobile",
+                    "reverseColumnsWhenStacked": true
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "marginTop": "0px"
+                  }
+                }
+              }
+            ],
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "0px",
+                "paddingLeft": "20px",
+                "paddingRight": "20px",
+                "paddingTop": "30px",
+                "paddingBottom": "30px",
+                "minHeight": "100px",
+                "backgroundColor": "rgba(246, 246, 246, 0.5)"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-d21968c625f04b50aaab9c81a7978190",
+            "meta": {
+              "previousId": "builder-a2ce0da38a0e445bb8d0e304aea3e5ef"
+            },
+            "component": {
+              "name": "Core:Section",
+              "options": {
+                "maxWidth": 1200,
+                "lazyLoad": false
+              }
+            },
+            "children": [
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-e63f403cbb7e4d619e1b4065aeee5f53",
+                "meta": {
+                  "previousId": "builder-5d8f48eeb1e34e7caeefb5ddddbf57af"
+                },
+                "component": {
+                  "name": "Columns",
+                  "options": {
+                    "columns": [
+                      {
+                        "blocks": [
+                          {
+                            "@type": "@builder.io/sdk:Element",
+                            "@version": 2,
+                            "id": "builder-b090b33d5ee941c6847a05c33e551607",
+                            "children": [
+                              {
+                                "@type": "@builder.io/sdk:Element",
+                                "@version": 2,
+                                "id": "builder-713d35ceffc34d90978224754806f46b",
+                                "component": {
+                                  "name": "Heading",
+                                  "options": {
+                                    "heading": " Minibus Hire Service for Birmingham and all UK",
+                                    "category": "h3",
+                                    "colour": "purple"
+                                  }
+                                },
+                                "responsiveStyles": {
+                                  "large": {
+                                    "display": "flex",
+                                    "flexDirection": "column",
+                                    "position": "relative",
+                                    "flexShrink": "0",
+                                    "boxSizing": "border-box",
+                                    "marginTop": "20px"
+                                  }
+                                }
+                              },
+                              {
+                                "@type": "@builder.io/sdk:Element",
+                                "@version": 2,
+                                "id": "builder-87cb580236f548beaaa1f89ee678e1e9",
+                                "component": {
+                                  "name": "Text",
+                                  "options": {
+                                    "text": "<p>Quality minibus hire on affordable prices. Whatever the occasion we have 8 to 16 seat minibus which will suit your needs. So whether it is a Corporate awayday, an Airport Pickup or Airport Transfer, a stag or hen do or a trip to a football match we have all the vehicle options for you. You will find our prices much cheaper than other minibus hire service providers in UK.</p><p>BHX Travel are the Local Birmingham minibus hire and National Minibus hire Specialist. Our Minibus hire and coach hire service is ideal for both private and contract hire use throughout Birmingham and rest of UK. Birmingham Minibus hire offers you the best solution and coverage for your minibus hire needs in the UK. We can offer you minibus hire solutions in Birmingham and through out the major cities in the UK for all your needs for Airport Transfers, parties, hen do and stag dos.</p><p>Our commitment to customer service and satisfaction means whatever your requirements we’ll endeavour to make your journey as safe, comfortable and most of all as enjoyable as can be possible.</p><p>We have decreased our prices for minibus hire Birmingham and Airport Transfers so that you can enjoy mini bus hire at an affordable price. All our prices are decreased to same effect in rest of UK aswell.</p><p>so when you next need to hire a minibus for your transport, then you should look no further than bhxtravel.com as we offer a very friendly service with reasonable rates to meet all your needs. call us or email us and we are sure to Quote you Happy. our Minibus hire Specialist will help you decide which minibus suits your needs. our fleet includes 9 seater minibus, 11 seater minibus, 14 seater minibus, 16 seater minibus.</p>"
+                                  }
+                                },
+                                "responsiveStyles": {
+                                  "large": {
+                                    "display": "flex",
+                                    "flexDirection": "column",
+                                    "position": "relative",
+                                    "flexShrink": "0",
+                                    "boxSizing": "border-box",
+                                    "lineHeight": "normal",
+                                    "height": "auto"
+                                  }
+                                }
+                              },
+                              {
+                                "@type": "@builder.io/sdk:Element",
+                                "@version": 2,
+                                "id": "builder-2f87c4f7e1ca40ce85e7beb4a53b4f67",
+                                "meta": {
+                                  "previousId": "builder-713d35ceffc34d90978224754806f46b"
+                                },
+                                "component": {
+                                  "name": "Heading",
+                                  "options": {
+                                    "heading": " No Party is too Small, No Distance is too Far",
+                                    "category": "h3",
+                                    "colour": "primary"
+                                  }
+                                },
+                                "responsiveStyles": {
+                                  "large": {
+                                    "display": "flex",
+                                    "flexDirection": "column",
+                                    "position": "relative",
+                                    "flexShrink": "0",
+                                    "boxSizing": "border-box",
+                                    "marginTop": "20px"
+                                  }
+                                }
+                              },
+                              {
+                                "@type": "@builder.io/sdk:Element",
+                                "@version": 2,
+                                "id": "builder-881e790988704ab3af66d7aeb193c59b",
+                                "meta": {
+                                  "previousId": "builder-87cb580236f548beaaa1f89ee678e1e9"
+                                },
+                                "component": {
+                                  "name": "Text",
+                                  "options": {
+                                    "text": "<p>Our trained and professional team aim to provide a quality service and personal commitment to each customer. They are able to give friendly advice on all aspects of your journey.</p><p>Call us today on <a href=\"tel:0752888868\" rel=\"noopener noreferrer\">0752888868</a> or email us on <a href=\"mailto:info@bhxtravel.com\" rel=\"noopener noreferrer\">info@bhxtravel.com</a></p>"
+                                  }
+                                },
+                                "responsiveStyles": {
+                                  "large": {
+                                    "display": "flex",
+                                    "flexDirection": "column",
+                                    "position": "relative",
+                                    "flexShrink": "0",
+                                    "boxSizing": "border-box",
+                                    "lineHeight": "normal",
+                                    "height": "auto",
+                                    "marginBottom": "20px"
+                                  }
+                                }
+                              },
+                              {
+                                "@type": "@builder.io/sdk:Element",
+                                "@version": 2,
+                                "id": "builder-f0b1e35671214febbfe1157c1dcaee1c",
+                                "component": {
+                                  "name": "Cta",
+                                  "options": {
+                                    "text": "Click Here to Request a Quotation",
+                                    "openLinkInNewTab": false,
+                                    "link": "/contact-us"
+                                  }
+                                },
+                                "responsiveStyles": {
+                                  "large": {
+                                    "display": "flex",
+                                    "flexDirection": "column",
+                                    "position": "relative",
+                                    "flexShrink": "0",
+                                    "boxSizing": "border-box",
+                                    "marginTop": "20px"
+                                  }
+                                }
+                              }
+                            ],
+                            "responsiveStyles": {
+                              "large": {
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "position": "relative",
+                                "flexShrink": "0",
+                                "boxSizing": "border-box",
+                                "marginTop": "20px",
+                                "maxWidth": "680px"
+                              }
+                            }
+                          }
+                        ]
+                      }
+                    ],
+                    "space": 20,
+                    "stackColumnsAt": "mobile",
+                    "reverseColumnsWhenStacked": false
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "marginTop": "20px"
+                  }
+                }
+              }
+            ],
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "0px",
+                "paddingLeft": "20px",
+                "paddingRight": "20px",
+                "paddingTop": "20px",
+                "paddingBottom": "20px",
+                "minHeight": "100px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-54d1f8ddc4bf4fc2b18cfab01e76e7b6",
+            "class": "without-margin",
+            "meta": {
+              "previousId": "builder-9dd04737c4dd4dd993ce23e849f7aead"
+            },
+            "component": {
+              "name": "Symbol",
+              "options": {
+                "symbol": {
+                  "model": "hero",
+                  "dynamic": false,
+                  "data": {},
+                  "entry": "2efe790ce9ec4519a70d80b83697f180"
+                },
+                "inheritState": false
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "alignItems": "stretch",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box",
+            "width": "100%",
+            "paddingLeft": "0px",
+            "paddingRight": "0px"
+          }
+        }
+      }
+    ],
+    "url": "/about",
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "firstPublished": 1661549496994,
+  "id": "7be5332b040146b890f7180e8e56ae9a",
+  "lastUpdated": 1664054708040,
+  "lastUpdatedBy": "0KS1GUNx43WgZAEkTfM99au0qiD3",
+  "meta": {
+    "componentsUsed": {
+      "Cta": 1,
+      "Heading": 2
+    },
+    "dataSources": [],
+    "hasLinks": false,
+    "kind": "page",
+    "lastPreviewUrl": "https://bhxtravel.junaid.guru/about?builder.space=c02cb8c5852a4aabbd6ab84b06225a74&builder.cachebust=true&builder.preview=page&builder.noCache=true&__builder_editing__=true&builder.overrides.page=cae82df0c64c477e8eef54ebd9afb27f&builder.overrides.cae82df0c64c477e8eef54ebd9afb27f=cae82df0c64c477e8eef54ebd9afb27f&builder.overrides.page:/about=cae82df0c64c477e8eef54ebd9afb27f",
+    "originalContentId": "faabe47ec61d4fa3a40a08082263fead",
+    "winningTest": null,
+    "needsHydration": false
+  },
+  "modelId": "54e6ebbcf70b4b08893c39bab37f6baf",
+  "name": "About",
+  "published": "published",
+  "query": [
+    {
+      "@type": "@builder.io/core:Query",
+      "operator": "is",
+      "property": "urlPath",
+      "value": "/about"
+    }
+  ],
+  "testRatio": 1,
+  "variations": {},
+  "rev": "c2aur32rmrf",
+  "@originOrg": "c02cb8c5852a4aabbd6ab84b06225a74",
+  "@originContentId": "cae82df0c64c477e8eef54ebd9afb27f",
+  "@originModelId": "ff0529c09df640a5a92b32ef0c0c7f29"
+}

@@ -1,0 +1,361 @@
+{
+  "createdBy": "0KS1GUNx43WgZAEkTfM99au0qiD3",
+  "createdDate": 1664026418348,
+  "data": {
+    "customFonts": [
+      {
+        "family": "Poppins",
+        "isUserFont": true
+      }
+    ],
+    "description": "CONTACT US Minibus Hire Service for Birmingham and all UK",
+    "httpRequests": {},
+    "inputs": [],
+    "title": "CONTACT US | BHXTravel",
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "layerName": "Page",
+        "id": "builder-9889ff3c02ec4be18038fb6544b210f4",
+        "meta": {
+          "previousId": "builder-2aba28892a25478083ba59038f9f4052"
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-2321a585a8fd4c06a1b4969f8d714b41",
+            "meta": {
+              "previousId": "builder-a3983c148d004049940980def1a916e4"
+            },
+            "component": {
+              "name": "Core:Section",
+              "options": {
+                "maxWidth": 1200,
+                "lazyLoad": false
+              }
+            },
+            "children": [
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-b8ae68fcd24b446eb5c472539599a774",
+                "meta": {
+                  "previousId": "builder-bf207171cb3a4b36a4996611eb1bb756"
+                },
+                "component": {
+                  "name": "Columns",
+                  "options": {
+                    "columns": [
+                      {
+                        "blocks": [
+                          {
+                            "@type": "@builder.io/sdk:Element",
+                            "@version": 2,
+                            "id": "builder-bd5ed7148ad64558b96fef2f0089797a",
+                            "children": [
+                              {
+                                "@type": "@builder.io/sdk:Element",
+                                "@version": 2,
+                                "id": "builder-f7017ffbe7e64381bc209dd5bb6b7503",
+                                "class": "hero-text",
+                                "meta": {
+                                  "previousId": "builder-789b0c0701ab4ac88ee45221f3b519bc"
+                                },
+                                "component": {
+                                  "name": "Text",
+                                  "options": {
+                                    "text": "<h1>CONTACT</h1>"
+                                  }
+                                },
+                                "responsiveStyles": {
+                                  "large": {
+                                    "display": "flex",
+                                    "flexDirection": "column",
+                                    "position": "relative",
+                                    "flexShrink": "0",
+                                    "boxSizing": "border-box",
+                                    "lineHeight": "normal",
+                                    "height": "auto"
+                                  }
+                                }
+                              }
+                            ],
+                            "responsiveStyles": {
+                              "large": {
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "position": "relative",
+                                "flexShrink": "0",
+                                "boxSizing": "border-box",
+                                "marginTop": "0px"
+                              }
+                            }
+                          },
+                          {
+                            "@type": "@builder.io/sdk:Element",
+                            "@version": 2,
+                            "id": "builder-822b6cb3b89c47829f1d371cc7ffd579",
+                            "component": {
+                              "name": "Text",
+                              "options": {
+                                "text": "<p>Our commitment to customer service and satisfaction means whatever your requirements we’ll endeavour to make your journey as safe, comfortable and most of all as enjoyable as can be possible.</p><p>Call us today on <a href=\"tel:0752888868\" rel=\"noopener noreferrer\">0752888868</a> or email us on <a href=\"mailto:info@bhxtravel.com\" rel=\"noopener noreferrer\">info@bhxtravel.com</a></p>"
+                              }
+                            },
+                            "responsiveStyles": {
+                              "large": {
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "position": "relative",
+                                "flexShrink": "0",
+                                "boxSizing": "border-box",
+                                "marginTop": "20px",
+                                "lineHeight": "normal",
+                                "height": "auto"
+                              }
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "blocks": [
+                          {
+                            "@type": "@builder.io/sdk:Element",
+                            "@version": 2,
+                            "id": "builder-c13c721a4c6c427aa2d5a28dbd197b9d",
+                            "meta": {
+                              "previousId": "builder-6a17704ab20c4fc6b3e185fa54ee8208"
+                            },
+                            "component": {
+                              "name": "Image",
+                              "options": {
+                                "image": "https://cdn.builder.io/api/v1/image/assets%2Fc02cb8c5852a4aabbd6ab84b06225a74%2F0e158468cbd84d4d900c20c346a5624d?width=598",
+                                "backgroundSize": "cover",
+                                "backgroundPosition": "center",
+                                "lazy": false,
+                                "fitContent": false,
+                                "aspectRatio": 0.577,
+                                "lockAspectRatio": false,
+                                "height": 1040,
+                                "width": 1802,
+                                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fc02cb8c5852a4aabbd6ab84b06225a74%2F0e158468cbd84d4d900c20c346a5624d?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fc02cb8c5852a4aabbd6ab84b06225a74%2F0e158468cbd84d4d900c20c346a5624d?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fc02cb8c5852a4aabbd6ab84b06225a74%2F0e158468cbd84d4d900c20c346a5624d?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fc02cb8c5852a4aabbd6ab84b06225a74%2F0e158468cbd84d4d900c20c346a5624d?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fc02cb8c5852a4aabbd6ab84b06225a74%2F0e158468cbd84d4d900c20c346a5624d?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fc02cb8c5852a4aabbd6ab84b06225a74%2F0e158468cbd84d4d900c20c346a5624d?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fc02cb8c5852a4aabbd6ab84b06225a74%2F0e158468cbd84d4d900c20c346a5624d?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fc02cb8c5852a4aabbd6ab84b06225a74%2F0e158468cbd84d4d900c20c346a5624d?width=598 598w, https://cdn.builder.io/api/v1/image/assets%2Fc02cb8c5852a4aabbd6ab84b06225a74%2F0e158468cbd84d4d900c20c346a5624d?width=469 469w, https://cdn.builder.io/api/v1/image/assets%2Fc02cb8c5852a4aabbd6ab84b06225a74%2F0e158468cbd84d4d900c20c346a5624d?width=590 590w",
+                                "sizes": "(max-width: 638px) 94vw, (max-width: 998px) 47vw, 43vw"
+                              }
+                            },
+                            "responsiveStyles": {
+                              "large": {
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "position": "relative",
+                                "flexShrink": "0",
+                                "boxSizing": "border-box",
+                                "width": "100%",
+                                "minHeight": "20px",
+                                "minWidth": "20px",
+                                "overflow": "hidden",
+                                "marginBottom": "20px"
+                              }
+                            }
+                          }
+                        ]
+                      }
+                    ],
+                    "space": 20,
+                    "stackColumnsAt": "mobile",
+                    "reverseColumnsWhenStacked": true
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "marginTop": "0px"
+                  }
+                }
+              }
+            ],
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "0px",
+                "paddingLeft": "20px",
+                "paddingRight": "20px",
+                "paddingTop": "30px",
+                "paddingBottom": "30px",
+                "minHeight": "100px",
+                "backgroundColor": "rgba(246, 246, 246, 0.5)"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-825fe3a237174cd9ad18bdd29b44a16a",
+            "meta": {
+              "previousId": "builder-c3e8773623d144cbb107dfeac06f6c55"
+            },
+            "component": {
+              "name": "Core:Section",
+              "options": {
+                "maxWidth": 1200,
+                "lazyLoad": false
+              }
+            },
+            "children": [
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-e9c2eac63f5d41a7b982fc1517194e12",
+                "meta": {
+                  "previousId": "builder-ae07a010246b4658ae360fa8c41b698a"
+                },
+                "component": {
+                  "name": "Columns",
+                  "options": {
+                    "columns": [
+                      {
+                        "blocks": [
+                          {
+                            "@type": "@builder.io/sdk:Element",
+                            "@version": 2,
+                            "id": "builder-3514ca9b72894749b26d2bd3685653e1",
+                            "component": {
+                              "name": "Text",
+                              "options": {
+                                "text": "<p>Please input the pickup and destination addresses and select from drop down options. An asterisk (*) indicates a required field.</p>"
+                              }
+                            },
+                            "responsiveStyles": {
+                              "large": {
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "position": "relative",
+                                "flexShrink": "0",
+                                "boxSizing": "border-box",
+                                "lineHeight": "normal",
+                                "height": "auto",
+                                "color": "rgba(0, 0, 0, 1)"
+                              }
+                            }
+                          },
+                          {
+                            "@type": "@builder.io/sdk:Element",
+                            "@version": 2,
+                            "id": "builder-afff7b32c9e5461296fc9f5b76bcbce6",
+                            "component": {
+                              "name": "QuoteForm",
+                              "options": {}
+                            },
+                            "responsiveStyles": {
+                              "large": {
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "position": "relative",
+                                "flexShrink": "0",
+                                "boxSizing": "border-box"
+                              }
+                            }
+                          }
+                        ]
+                      }
+                    ],
+                    "space": 20,
+                    "stackColumnsAt": "tablet",
+                    "reverseColumnsWhenStacked": false
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box"
+                  }
+                }
+              }
+            ],
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "0px",
+                "paddingLeft": "20px",
+                "paddingRight": "20px",
+                "paddingTop": "20px",
+                "paddingBottom": "20px",
+                "backgroundColor": "rgba(92,203,215,.15)",
+                "border-top": "1px solid rgba(0, 0, 0, 0.2)"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "alignItems": "stretch",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box",
+            "width": "100%",
+            "paddingLeft": "0px",
+            "paddingRight": "0px"
+          }
+        }
+      }
+    ],
+    "url": "/contact-us",
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "firstPublished": 1661549496994,
+  "id": "8fa8113c03004a7c89f0e46ba935508b",
+  "lastUpdated": 1664054772823,
+  "lastUpdatedBy": "0KS1GUNx43WgZAEkTfM99au0qiD3",
+  "meta": {
+    "componentsUsed": {
+      "QuoteForm": 1
+    },
+    "dataSources": [],
+    "hasLinks": false,
+    "kind": "page",
+    "lastPreviewUrl": "https://bhxtravel.junaid.guru/contact-us?builder.space=c02cb8c5852a4aabbd6ab84b06225a74&builder.cachebust=true&builder.preview=page&builder.noCache=true&__builder_editing__=true&builder.overrides.page=3dcd638e087743e09f64af04b0ba6d48&builder.overrides.3dcd638e087743e09f64af04b0ba6d48=3dcd638e087743e09f64af04b0ba6d48&builder.overrides.page:/contact-us=3dcd638e087743e09f64af04b0ba6d48",
+    "originalContentId": "faabe47ec61d4fa3a40a08082263fead",
+    "winningTest": null,
+    "needsHydration": false
+  },
+  "modelId": "54e6ebbcf70b4b08893c39bab37f6baf",
+  "name": "Contact us",
+  "published": "published",
+  "query": [
+    {
+      "@type": "@builder.io/core:Query",
+      "operator": "is",
+      "property": "urlPath",
+      "value": "/contact-us"
+    }
+  ],
+  "testRatio": 1,
+  "variations": {},
+  "rev": "c2aur32rmrf",
+  "@originOrg": "c02cb8c5852a4aabbd6ab84b06225a74",
+  "@originContentId": "3dcd638e087743e09f64af04b0ba6d48",
+  "@originModelId": "ff0529c09df640a5a92b32ef0c0c7f29"
+}

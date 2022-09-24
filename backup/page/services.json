@@ -1,0 +1,1692 @@
+{
+  "createdBy": "0KS1GUNx43WgZAEkTfM99au0qiD3",
+  "createdDate": 1664027319790,
+  "data": {
+    "customFonts": [
+      {
+        "family": "Poppins",
+        "isUserFont": true
+      }
+    ],
+    "description": "SERVICES Minibus Hire Service for Birmingham and all UK",
+    "httpRequests": {},
+    "inputs": [],
+    "title": "SERVICES | BHXTravel",
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "layerName": "Page",
+        "id": "builder-68a4aef672d14c6db3f383246fcc8e53",
+        "meta": {
+          "previousId": "builder-9889ff3c02ec4be18038fb6544b210f4"
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-ce7c4361a5784f3598438cd7ae147467",
+            "meta": {
+              "previousId": "builder-2321a585a8fd4c06a1b4969f8d714b41"
+            },
+            "component": {
+              "name": "Core:Section",
+              "options": {
+                "maxWidth": 1200,
+                "lazyLoad": false
+              }
+            },
+            "children": [
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-95ef456d84274b29aea5195ee03a3ac7",
+                "meta": {
+                  "previousId": "builder-b8ae68fcd24b446eb5c472539599a774"
+                },
+                "component": {
+                  "name": "Columns",
+                  "options": {
+                    "columns": [
+                      {
+                        "blocks": [
+                          {
+                            "@type": "@builder.io/sdk:Element",
+                            "@version": 2,
+                            "id": "builder-6a84b494c3524ffe90b5bf7f86b9ae28",
+                            "children": [
+                              {
+                                "@type": "@builder.io/sdk:Element",
+                                "@version": 2,
+                                "id": "builder-40629e475d2c4e61b4fe57f484d1f124",
+                                "class": "hero-text",
+                                "meta": {
+                                  "previousId": "builder-789b0c0701ab4ac88ee45221f3b519bc"
+                                },
+                                "component": {
+                                  "name": "Text",
+                                  "options": {
+                                    "text": "<h1>SERVICES</h1>"
+                                  }
+                                },
+                                "responsiveStyles": {
+                                  "large": {
+                                    "display": "flex",
+                                    "flexDirection": "column",
+                                    "position": "relative",
+                                    "flexShrink": "0",
+                                    "boxSizing": "border-box",
+                                    "lineHeight": "normal",
+                                    "height": "auto"
+                                  }
+                                }
+                              }
+                            ],
+                            "responsiveStyles": {
+                              "large": {
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "position": "relative",
+                                "flexShrink": "0",
+                                "boxSizing": "border-box",
+                                "marginTop": "0px"
+                              }
+                            }
+                          },
+                          {
+                            "@type": "@builder.io/sdk:Element",
+                            "@version": 2,
+                            "id": "builder-a2ff3d8ec805433b91d5e00ba6e9570b",
+                            "component": {
+                              "name": "Text",
+                              "options": {
+                                "text": "<p> Our commitment to customer service and satisfaction means whatever your requirements we’ll endeavour to make your journey as safe, comfortable and most of all as enjoyable as can be possible. </p>"
+                              }
+                            },
+                            "responsiveStyles": {
+                              "large": {
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "position": "relative",
+                                "flexShrink": "0",
+                                "boxSizing": "border-box",
+                                "marginTop": "20px",
+                                "lineHeight": "normal",
+                                "height": "auto"
+                              }
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "blocks": [
+                          {
+                            "@type": "@builder.io/sdk:Element",
+                            "@version": 2,
+                            "id": "builder-a257a01ba2184d7baf3ce9cd709ea865",
+                            "meta": {
+                              "previousId": "builder-6a17704ab20c4fc6b3e185fa54ee8208"
+                            },
+                            "component": {
+                              "name": "Image",
+                              "options": {
+                                "image": "https://cdn.builder.io/api/v1/image/assets%2Fc02cb8c5852a4aabbd6ab84b06225a74%2Fb1a326ce62354d2abd135e18457e5cfe?width=598",
+                                "backgroundSize": "cover",
+                                "backgroundPosition": "center",
+                                "lazy": false,
+                                "fitContent": false,
+                                "aspectRatio": 0.495,
+                                "lockAspectRatio": false,
+                                "height": 768,
+                                "width": 1550,
+                                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fc02cb8c5852a4aabbd6ab84b06225a74%2Fb1a326ce62354d2abd135e18457e5cfe?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fc02cb8c5852a4aabbd6ab84b06225a74%2Fb1a326ce62354d2abd135e18457e5cfe?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fc02cb8c5852a4aabbd6ab84b06225a74%2Fb1a326ce62354d2abd135e18457e5cfe?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fc02cb8c5852a4aabbd6ab84b06225a74%2Fb1a326ce62354d2abd135e18457e5cfe?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fc02cb8c5852a4aabbd6ab84b06225a74%2Fb1a326ce62354d2abd135e18457e5cfe?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fc02cb8c5852a4aabbd6ab84b06225a74%2Fb1a326ce62354d2abd135e18457e5cfe?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fc02cb8c5852a4aabbd6ab84b06225a74%2Fb1a326ce62354d2abd135e18457e5cfe?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fc02cb8c5852a4aabbd6ab84b06225a74%2Fb1a326ce62354d2abd135e18457e5cfe?width=598 598w, https://cdn.builder.io/api/v1/image/assets%2Fc02cb8c5852a4aabbd6ab84b06225a74%2Fb1a326ce62354d2abd135e18457e5cfe?width=469 469w, https://cdn.builder.io/api/v1/image/assets%2Fc02cb8c5852a4aabbd6ab84b06225a74%2Fb1a326ce62354d2abd135e18457e5cfe?width=590 590w",
+                                "sizes": "(max-width: 638px) 94vw, (max-width: 998px) 47vw, 43vw"
+                              }
+                            },
+                            "responsiveStyles": {
+                              "large": {
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "position": "relative",
+                                "flexShrink": "0",
+                                "boxSizing": "border-box",
+                                "width": "100%",
+                                "minHeight": "20px",
+                                "minWidth": "20px",
+                                "overflow": "hidden",
+                                "marginBottom": "20px"
+                              }
+                            }
+                          }
+                        ]
+                      }
+                    ],
+                    "space": 20,
+                    "stackColumnsAt": "mobile",
+                    "reverseColumnsWhenStacked": true
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "marginTop": "0px"
+                  }
+                }
+              }
+            ],
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "0px",
+                "paddingLeft": "20px",
+                "paddingRight": "20px",
+                "paddingTop": "30px",
+                "paddingBottom": "30px",
+                "minHeight": "100px",
+                "backgroundColor": "rgba(246, 246, 246, 0.5)"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-161116be92094d1f8b4af634c63f79aa",
+            "properties": {
+              "id": "day-trips"
+            },
+            "class": "service-block",
+            "component": {
+              "name": "Core:Section",
+              "options": {
+                "maxWidth": 1200,
+                "lazyLoad": false
+              }
+            },
+            "children": [
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-a287da3c4d214ee7a95ee9ff2b946cbf",
+                "component": {
+                  "name": "Columns",
+                  "options": {
+                    "columns": [
+                      {
+                        "blocks": [
+                          {
+                            "@type": "@builder.io/sdk:Element",
+                            "@version": 2,
+                            "id": "builder-f7517ae264cb41c1864b53d1ab77cd5e",
+                            "component": {
+                              "name": "Image",
+                              "options": {
+                                "image": "https://cdn.builder.io/api/v1/image/assets%2Fc02cb8c5852a4aabbd6ab84b06225a74%2F0a040a9efcab4c06901a14cf3c838145?width=598",
+                                "backgroundSize": "cover",
+                                "backgroundPosition": "center",
+                                "lazy": false,
+                                "fitContent": true,
+                                "aspectRatio": 1.042,
+                                "lockAspectRatio": false,
+                                "height": 351,
+                                "width": 337,
+                                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fc02cb8c5852a4aabbd6ab84b06225a74%2F0a040a9efcab4c06901a14cf3c838145?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fc02cb8c5852a4aabbd6ab84b06225a74%2F0a040a9efcab4c06901a14cf3c838145?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fc02cb8c5852a4aabbd6ab84b06225a74%2F0a040a9efcab4c06901a14cf3c838145?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fc02cb8c5852a4aabbd6ab84b06225a74%2F0a040a9efcab4c06901a14cf3c838145?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fc02cb8c5852a4aabbd6ab84b06225a74%2F0a040a9efcab4c06901a14cf3c838145?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fc02cb8c5852a4aabbd6ab84b06225a74%2F0a040a9efcab4c06901a14cf3c838145?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fc02cb8c5852a4aabbd6ab84b06225a74%2F0a040a9efcab4c06901a14cf3c838145?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fc02cb8c5852a4aabbd6ab84b06225a74%2F0a040a9efcab4c06901a14cf3c838145?width=598 598w, https://cdn.builder.io/api/v1/image/assets%2Fc02cb8c5852a4aabbd6ab84b06225a74%2F0a040a9efcab4c06901a14cf3c838145?width=310 310w, https://cdn.builder.io/api/v1/image/assets%2Fc02cb8c5852a4aabbd6ab84b06225a74%2F0a040a9efcab4c06901a14cf3c838145?width=390 390w",
+                                "sizes": "(max-width: 638px) 94vw, (max-width: 998px) 32vw, 28vw"
+                              }
+                            },
+                            "responsiveStyles": {
+                              "large": {
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "position": "relative",
+                                "flexShrink": "0",
+                                "boxSizing": "border-box",
+                                "width": "100%",
+                                "minHeight": "20px",
+                                "minWidth": "20px",
+                                "overflow": "hidden",
+                                "marginBottom": "20px"
+                              }
+                            }
+                          }
+                        ],
+                        "width": 33.333333
+                      },
+                      {
+                        "blocks": [
+                          {
+                            "@type": "@builder.io/sdk:Element",
+                            "@version": 2,
+                            "id": "builder-290a4d2edf4e4db0bea84da8e90fb305",
+                            "component": {
+                              "name": "Text",
+                              "options": {
+                                "text": "<p>Day Trips </p>"
+                              }
+                            },
+                            "responsiveStyles": {
+                              "large": {
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "position": "relative",
+                                "flexShrink": "0",
+                                "boxSizing": "border-box",
+                                "lineHeight": "normal",
+                                "height": "auto",
+                                "color": "rgba(237, 28, 36, 1)",
+                                "fontWeight": "600"
+                              }
+                            }
+                          },
+                          {
+                            "@type": "@builder.io/sdk:Element",
+                            "@version": 2,
+                            "id": "builder-8bda04d9257647649d8651b4535d1dc9",
+                            "component": {
+                              "name": "Heading",
+                              "options": {
+                                "heading": "Minibus Hire Coach Hire for Day Trips",
+                                "category": "h3",
+                                "noBottomMargin": true,
+                                "colour": "secondary"
+                              }
+                            },
+                            "responsiveStyles": {
+                              "large": {
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "position": "relative",
+                                "flexShrink": "0",
+                                "boxSizing": "border-box",
+                                "marginTop": "20px"
+                              }
+                            }
+                          },
+                          {
+                            "@type": "@builder.io/sdk:Element",
+                            "@version": 2,
+                            "id": "builder-e346e521f5424b238d3e2641ca01fdb2",
+                            "component": {
+                              "name": "Text",
+                              "options": {
+                                "text": "<p>  Happy Birthday! we Wish you a prosperous and happiest New year Ahead! Need Transportation for your Birthday Party. you found the right website. Call us or email us and our friendly staff will look at all your needs and Assist you in deciding which minibus or coach will be the best to suit your needs. We are based in Birmingham but we carter for all UK. </p>"
+                              }
+                            },
+                            "responsiveStyles": {
+                              "large": {
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "position": "relative",
+                                "flexShrink": "0",
+                                "boxSizing": "border-box",
+                                "marginTop": "20px",
+                                "lineHeight": "normal",
+                                "height": "auto"
+                              }
+                            }
+                          }
+                        ],
+                        "width": 66.666666
+                      }
+                    ],
+                    "space": 20,
+                    "stackColumnsAt": "mobile",
+                    "reverseColumnsWhenStacked": false
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "marginTop": "20px"
+                  }
+                }
+              }
+            ],
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "0px",
+                "paddingLeft": "20px",
+                "paddingRight": "20px",
+                "paddingTop": "40px",
+                "paddingBottom": "40px",
+                "minHeight": "100px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-193bb4faabfa4800abd77415b298c51a",
+            "properties": {
+              "id": "airport-transfers"
+            },
+            "class": "service-block",
+            "meta": {
+              "previousId": "builder-161116be92094d1f8b4af634c63f79aa"
+            },
+            "component": {
+              "name": "Core:Section",
+              "options": {
+                "maxWidth": 1200,
+                "lazyLoad": false
+              }
+            },
+            "children": [
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-45f1b805ae954abe8fb68fe446d499bf",
+                "meta": {
+                  "previousId": "builder-a287da3c4d214ee7a95ee9ff2b946cbf"
+                },
+                "component": {
+                  "name": "Columns",
+                  "options": {
+                    "columns": [
+                      {
+                        "blocks": [
+                          {
+                            "@type": "@builder.io/sdk:Element",
+                            "@version": 2,
+                            "id": "builder-656261ba125741ff97c1b2e45d0b218b",
+                            "component": {
+                              "name": "Image",
+                              "options": {
+                                "image": "https://cdn.builder.io/api/v1/image/assets%2Fc02cb8c5852a4aabbd6ab84b06225a74%2Ffc5388dda36d47519bfe24936b91879d?width=598",
+                                "backgroundSize": "cover",
+                                "backgroundPosition": "center",
+                                "lazy": false,
+                                "fitContent": true,
+                                "aspectRatio": 1.042,
+                                "lockAspectRatio": false,
+                                "height": 351,
+                                "width": 337,
+                                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fc02cb8c5852a4aabbd6ab84b06225a74%2Ffc5388dda36d47519bfe24936b91879d?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fc02cb8c5852a4aabbd6ab84b06225a74%2Ffc5388dda36d47519bfe24936b91879d?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fc02cb8c5852a4aabbd6ab84b06225a74%2Ffc5388dda36d47519bfe24936b91879d?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fc02cb8c5852a4aabbd6ab84b06225a74%2Ffc5388dda36d47519bfe24936b91879d?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fc02cb8c5852a4aabbd6ab84b06225a74%2Ffc5388dda36d47519bfe24936b91879d?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fc02cb8c5852a4aabbd6ab84b06225a74%2Ffc5388dda36d47519bfe24936b91879d?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fc02cb8c5852a4aabbd6ab84b06225a74%2Ffc5388dda36d47519bfe24936b91879d?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fc02cb8c5852a4aabbd6ab84b06225a74%2Ffc5388dda36d47519bfe24936b91879d?width=598 598w, https://cdn.builder.io/api/v1/image/assets%2Fc02cb8c5852a4aabbd6ab84b06225a74%2Ffc5388dda36d47519bfe24936b91879d?width=310 310w, https://cdn.builder.io/api/v1/image/assets%2Fc02cb8c5852a4aabbd6ab84b06225a74%2Ffc5388dda36d47519bfe24936b91879d?width=390 390w",
+                                "sizes": "(max-width: 638px) 94vw, (max-width: 998px) 32vw, 28vw"
+                              }
+                            },
+                            "responsiveStyles": {
+                              "large": {
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "position": "relative",
+                                "flexShrink": "0",
+                                "boxSizing": "border-box",
+                                "width": "100%",
+                                "minHeight": "20px",
+                                "minWidth": "20px",
+                                "overflow": "hidden",
+                                "marginBottom": "20px"
+                              }
+                            }
+                          }
+                        ],
+                        "width": 33.333333
+                      },
+                      {
+                        "blocks": [
+                          {
+                            "@type": "@builder.io/sdk:Element",
+                            "@version": 2,
+                            "id": "builder-f9f28591fc6e4d1f9bfbe40de2765c10",
+                            "component": {
+                              "name": "Text",
+                              "options": {
+                                "text": "<p>Airport Transfers </p>"
+                              }
+                            },
+                            "responsiveStyles": {
+                              "large": {
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "position": "relative",
+                                "flexShrink": "0",
+                                "boxSizing": "border-box",
+                                "lineHeight": "normal",
+                                "height": "auto",
+                                "color": "rgba(237, 28, 36, 1)",
+                                "fontWeight": "600"
+                              }
+                            }
+                          },
+                          {
+                            "@type": "@builder.io/sdk:Element",
+                            "@version": 2,
+                            "id": "builder-8252f6d93d3549239c916b36564f88f2",
+                            "component": {
+                              "name": "Heading",
+                              "options": {
+                                "heading": "Minibus Hire Coach Hire for Airport Transfers",
+                                "category": "h3",
+                                "noBottomMargin": true,
+                                "colour": "secondary"
+                              }
+                            },
+                            "responsiveStyles": {
+                              "large": {
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "position": "relative",
+                                "flexShrink": "0",
+                                "boxSizing": "border-box",
+                                "marginTop": "20px"
+                              }
+                            }
+                          },
+                          {
+                            "@type": "@builder.io/sdk:Element",
+                            "@version": 2,
+                            "id": "builder-6556834b726b4677b1ff8737e427e636",
+                            "component": {
+                              "name": "Text",
+                              "options": {
+                                "text": "<p>  Need a Low cost Airport Transfer Service? medium Group of Family and friends need an Airport Transfer? Then we can help. Here at bhxtravel we can provide you with a service which will be there on time for you and at competitive price.Minibus Airport transfers are perfect for the larger family or small groups who want to travel together. </p>"
+                              }
+                            },
+                            "responsiveStyles": {
+                              "large": {
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "position": "relative",
+                                "flexShrink": "0",
+                                "boxSizing": "border-box",
+                                "marginTop": "20px",
+                                "lineHeight": "normal",
+                                "height": "auto"
+                              }
+                            }
+                          }
+                        ],
+                        "width": 66.666666
+                      }
+                    ],
+                    "space": 20,
+                    "stackColumnsAt": "mobile",
+                    "reverseColumnsWhenStacked": false
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "marginTop": "20px"
+                  }
+                }
+              }
+            ],
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "0px",
+                "paddingLeft": "20px",
+                "paddingRight": "20px",
+                "paddingTop": "40px",
+                "paddingBottom": "40px",
+                "minHeight": "100px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-587b5373393246db959421b207d21cb6",
+            "properties": {
+              "id": "contracts"
+            },
+            "class": "service-block",
+            "meta": {
+              "previousId": "builder-193bb4faabfa4800abd77415b298c51a"
+            },
+            "component": {
+              "name": "Core:Section",
+              "options": {
+                "maxWidth": 1200,
+                "lazyLoad": false
+              }
+            },
+            "children": [
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-f4e908d27820494faee79cf8d7489d3a",
+                "meta": {
+                  "previousId": "builder-45f1b805ae954abe8fb68fe446d499bf"
+                },
+                "component": {
+                  "name": "Columns",
+                  "options": {
+                    "columns": [
+                      {
+                        "blocks": [
+                          {
+                            "@type": "@builder.io/sdk:Element",
+                            "@version": 2,
+                            "id": "builder-f43003a33165434f986a63d2fd4d6132",
+                            "component": {
+                              "name": "Image",
+                              "options": {
+                                "image": "https://cdn.builder.io/api/v1/image/assets%2Fc02cb8c5852a4aabbd6ab84b06225a74%2F9e6511b056de46b6b55a29dfa143766e?width=598",
+                                "backgroundSize": "cover",
+                                "backgroundPosition": "center",
+                                "lazy": false,
+                                "fitContent": true,
+                                "aspectRatio": 1.042,
+                                "lockAspectRatio": false,
+                                "height": 351,
+                                "width": 337,
+                                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fc02cb8c5852a4aabbd6ab84b06225a74%2F9e6511b056de46b6b55a29dfa143766e?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fc02cb8c5852a4aabbd6ab84b06225a74%2F9e6511b056de46b6b55a29dfa143766e?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fc02cb8c5852a4aabbd6ab84b06225a74%2F9e6511b056de46b6b55a29dfa143766e?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fc02cb8c5852a4aabbd6ab84b06225a74%2F9e6511b056de46b6b55a29dfa143766e?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fc02cb8c5852a4aabbd6ab84b06225a74%2F9e6511b056de46b6b55a29dfa143766e?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fc02cb8c5852a4aabbd6ab84b06225a74%2F9e6511b056de46b6b55a29dfa143766e?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fc02cb8c5852a4aabbd6ab84b06225a74%2F9e6511b056de46b6b55a29dfa143766e?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fc02cb8c5852a4aabbd6ab84b06225a74%2F9e6511b056de46b6b55a29dfa143766e?width=598 598w, https://cdn.builder.io/api/v1/image/assets%2Fc02cb8c5852a4aabbd6ab84b06225a74%2F9e6511b056de46b6b55a29dfa143766e?width=310 310w, https://cdn.builder.io/api/v1/image/assets%2Fc02cb8c5852a4aabbd6ab84b06225a74%2F9e6511b056de46b6b55a29dfa143766e?width=390 390w",
+                                "sizes": "(max-width: 638px) 94vw, (max-width: 998px) 32vw, 28vw"
+                              }
+                            },
+                            "responsiveStyles": {
+                              "large": {
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "position": "relative",
+                                "flexShrink": "0",
+                                "boxSizing": "border-box",
+                                "width": "100%",
+                                "minHeight": "20px",
+                                "minWidth": "20px",
+                                "overflow": "hidden",
+                                "marginBottom": "20px"
+                              }
+                            }
+                          }
+                        ],
+                        "width": 33.333333
+                      },
+                      {
+                        "blocks": [
+                          {
+                            "@type": "@builder.io/sdk:Element",
+                            "@version": 2,
+                            "id": "builder-207d7665b0804fa6b63cc33a1856e464",
+                            "component": {
+                              "name": "Text",
+                              "options": {
+                                "text": "<p>Contracts</p>"
+                              }
+                            },
+                            "responsiveStyles": {
+                              "large": {
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "position": "relative",
+                                "flexShrink": "0",
+                                "boxSizing": "border-box",
+                                "lineHeight": "normal",
+                                "height": "auto",
+                                "color": "rgba(237, 28, 36, 1)",
+                                "fontWeight": "600"
+                              }
+                            }
+                          },
+                          {
+                            "@type": "@builder.io/sdk:Element",
+                            "@version": 2,
+                            "id": "builder-93094b143ff940dd812c6472962a3ab7",
+                            "component": {
+                              "name": "Heading",
+                              "options": {
+                                "heading": " Minibus Hire Coach hire for Contracts ",
+                                "category": "h3",
+                                "noBottomMargin": true,
+                                "colour": "secondary"
+                              }
+                            },
+                            "responsiveStyles": {
+                              "large": {
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "position": "relative",
+                                "flexShrink": "0",
+                                "boxSizing": "border-box",
+                                "marginTop": "20px"
+                              }
+                            }
+                          },
+                          {
+                            "@type": "@builder.io/sdk:Element",
+                            "@version": 2,
+                            "id": "builder-765b170c8c1a43a796a2ac937e9552d0",
+                            "component": {
+                              "name": "Text",
+                              "options": {
+                                "text": "<p>  Are you a football fan and looking to hire a minibus or coach to watch the live football matches within the UK? so wether its an away game or a home game, we can provide you a perfect mode for Transport for all your friends and family.we have transportation solutions available for you while your transportation requirements are either for private, corporate </p>"
+                              }
+                            },
+                            "responsiveStyles": {
+                              "large": {
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "position": "relative",
+                                "flexShrink": "0",
+                                "boxSizing": "border-box",
+                                "marginTop": "20px",
+                                "lineHeight": "normal",
+                                "height": "auto"
+                              }
+                            }
+                          }
+                        ],
+                        "width": 66.666666
+                      }
+                    ],
+                    "space": 20,
+                    "stackColumnsAt": "mobile",
+                    "reverseColumnsWhenStacked": false
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "marginTop": "20px"
+                  }
+                }
+              }
+            ],
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "0px",
+                "paddingLeft": "20px",
+                "paddingRight": "20px",
+                "paddingTop": "40px",
+                "paddingBottom": "40px",
+                "minHeight": "100px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-84970841581b4a18a274765e9ca594c2",
+            "properties": {
+              "id": "nights-out"
+            },
+            "class": "service-block",
+            "meta": {
+              "previousId": "builder-587b5373393246db959421b207d21cb6"
+            },
+            "component": {
+              "name": "Core:Section",
+              "options": {
+                "maxWidth": 1200,
+                "lazyLoad": false
+              }
+            },
+            "children": [
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-eaefca671a5c423bbc4e5809fbdaae6f",
+                "meta": {
+                  "previousId": "builder-f4e908d27820494faee79cf8d7489d3a"
+                },
+                "component": {
+                  "name": "Columns",
+                  "options": {
+                    "columns": [
+                      {
+                        "blocks": [
+                          {
+                            "@type": "@builder.io/sdk:Element",
+                            "@version": 2,
+                            "id": "builder-ead3462ae1364f769b15865eb2fcb604",
+                            "component": {
+                              "name": "Image",
+                              "options": {
+                                "image": "https://cdn.builder.io/api/v1/image/assets%2Fc02cb8c5852a4aabbd6ab84b06225a74%2F05051e88a604443abf52aca3ba533afa?width=598",
+                                "backgroundSize": "cover",
+                                "backgroundPosition": "center",
+                                "lazy": false,
+                                "fitContent": true,
+                                "aspectRatio": 1.042,
+                                "lockAspectRatio": false,
+                                "height": 351,
+                                "width": 337,
+                                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fc02cb8c5852a4aabbd6ab84b06225a74%2F05051e88a604443abf52aca3ba533afa?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fc02cb8c5852a4aabbd6ab84b06225a74%2F05051e88a604443abf52aca3ba533afa?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fc02cb8c5852a4aabbd6ab84b06225a74%2F05051e88a604443abf52aca3ba533afa?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fc02cb8c5852a4aabbd6ab84b06225a74%2F05051e88a604443abf52aca3ba533afa?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fc02cb8c5852a4aabbd6ab84b06225a74%2F05051e88a604443abf52aca3ba533afa?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fc02cb8c5852a4aabbd6ab84b06225a74%2F05051e88a604443abf52aca3ba533afa?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fc02cb8c5852a4aabbd6ab84b06225a74%2F05051e88a604443abf52aca3ba533afa?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fc02cb8c5852a4aabbd6ab84b06225a74%2F05051e88a604443abf52aca3ba533afa?width=598 598w, https://cdn.builder.io/api/v1/image/assets%2Fc02cb8c5852a4aabbd6ab84b06225a74%2F05051e88a604443abf52aca3ba533afa?width=310 310w, https://cdn.builder.io/api/v1/image/assets%2Fc02cb8c5852a4aabbd6ab84b06225a74%2F05051e88a604443abf52aca3ba533afa?width=390 390w",
+                                "sizes": "(max-width: 638px) 94vw, (max-width: 998px) 32vw, 28vw"
+                              }
+                            },
+                            "responsiveStyles": {
+                              "large": {
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "position": "relative",
+                                "flexShrink": "0",
+                                "boxSizing": "border-box",
+                                "width": "100%",
+                                "minHeight": "20px",
+                                "minWidth": "20px",
+                                "overflow": "hidden",
+                                "marginBottom": "20px"
+                              }
+                            }
+                          }
+                        ],
+                        "width": 33.333333
+                      },
+                      {
+                        "blocks": [
+                          {
+                            "@type": "@builder.io/sdk:Element",
+                            "@version": 2,
+                            "id": "builder-c7d68e082a8b41e3a0a3a47f5f5bbd88",
+                            "component": {
+                              "name": "Text",
+                              "options": {
+                                "text": "<p> Nights Out </p>"
+                              }
+                            },
+                            "responsiveStyles": {
+                              "large": {
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "position": "relative",
+                                "flexShrink": "0",
+                                "boxSizing": "border-box",
+                                "lineHeight": "normal",
+                                "height": "auto",
+                                "color": "rgba(237, 28, 36, 1)",
+                                "fontWeight": "600"
+                              }
+                            }
+                          },
+                          {
+                            "@type": "@builder.io/sdk:Element",
+                            "@version": 2,
+                            "id": "builder-4521c864934442e187d8682622320eb0",
+                            "component": {
+                              "name": "Heading",
+                              "options": {
+                                "heading": " There’s nothing like a night ",
+                                "category": "h3",
+                                "noBottomMargin": true,
+                                "colour": "secondary"
+                              }
+                            },
+                            "responsiveStyles": {
+                              "large": {
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "position": "relative",
+                                "flexShrink": "0",
+                                "boxSizing": "border-box",
+                                "marginTop": "20px"
+                              }
+                            }
+                          },
+                          {
+                            "@type": "@builder.io/sdk:Element",
+                            "@version": 2,
+                            "id": "builder-c0991d4ac97d43b2942a47aab933f378",
+                            "component": {
+                              "name": "Text",
+                              "options": {
+                                "text": "<p>Out on the town or out of town. Nights out are an important part of anyone’s social calendar. Are you Planning a big night out with friends? A Grils Night out or May be a boys night out, whatever the occasion we carter for all. We will pick you up at your home or pick up point and drop you off. </p>"
+                              }
+                            },
+                            "responsiveStyles": {
+                              "large": {
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "position": "relative",
+                                "flexShrink": "0",
+                                "boxSizing": "border-box",
+                                "marginTop": "20px",
+                                "lineHeight": "normal",
+                                "height": "auto"
+                              }
+                            }
+                          }
+                        ],
+                        "width": 66.666666
+                      }
+                    ],
+                    "space": 20,
+                    "stackColumnsAt": "mobile",
+                    "reverseColumnsWhenStacked": false
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "marginTop": "20px"
+                  }
+                }
+              }
+            ],
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "0px",
+                "paddingLeft": "20px",
+                "paddingRight": "20px",
+                "paddingTop": "40px",
+                "paddingBottom": "40px",
+                "minHeight": "100px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-b9a9a16080874f2da7232432639d7bb3",
+            "properties": {
+              "id": "sporting-events"
+            },
+            "class": "service-block",
+            "meta": {
+              "previousId": "builder-84970841581b4a18a274765e9ca594c2"
+            },
+            "component": {
+              "name": "Core:Section",
+              "options": {
+                "maxWidth": 1200,
+                "lazyLoad": false
+              }
+            },
+            "children": [
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-a6228c0b72214f668df3e58d701431ca",
+                "meta": {
+                  "previousId": "builder-eaefca671a5c423bbc4e5809fbdaae6f"
+                },
+                "component": {
+                  "name": "Columns",
+                  "options": {
+                    "columns": [
+                      {
+                        "blocks": [
+                          {
+                            "@type": "@builder.io/sdk:Element",
+                            "@version": 2,
+                            "id": "builder-103a0d349aca4d2f859c751169ab442e",
+                            "component": {
+                              "name": "Image",
+                              "options": {
+                                "image": "https://cdn.builder.io/api/v1/image/assets%2Fc02cb8c5852a4aabbd6ab84b06225a74%2F2449e481383f4271b105ec29b318d55f?width=598",
+                                "backgroundSize": "cover",
+                                "backgroundPosition": "center",
+                                "lazy": false,
+                                "fitContent": true,
+                                "aspectRatio": 1.042,
+                                "lockAspectRatio": false,
+                                "height": 351,
+                                "width": 337,
+                                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fc02cb8c5852a4aabbd6ab84b06225a74%2F2449e481383f4271b105ec29b318d55f?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fc02cb8c5852a4aabbd6ab84b06225a74%2F2449e481383f4271b105ec29b318d55f?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fc02cb8c5852a4aabbd6ab84b06225a74%2F2449e481383f4271b105ec29b318d55f?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fc02cb8c5852a4aabbd6ab84b06225a74%2F2449e481383f4271b105ec29b318d55f?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fc02cb8c5852a4aabbd6ab84b06225a74%2F2449e481383f4271b105ec29b318d55f?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fc02cb8c5852a4aabbd6ab84b06225a74%2F2449e481383f4271b105ec29b318d55f?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fc02cb8c5852a4aabbd6ab84b06225a74%2F2449e481383f4271b105ec29b318d55f?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fc02cb8c5852a4aabbd6ab84b06225a74%2F2449e481383f4271b105ec29b318d55f?width=598 598w, https://cdn.builder.io/api/v1/image/assets%2Fc02cb8c5852a4aabbd6ab84b06225a74%2F2449e481383f4271b105ec29b318d55f?width=310 310w, https://cdn.builder.io/api/v1/image/assets%2Fc02cb8c5852a4aabbd6ab84b06225a74%2F2449e481383f4271b105ec29b318d55f?width=390 390w",
+                                "sizes": "(max-width: 638px) 94vw, (max-width: 998px) 32vw, 28vw"
+                              }
+                            },
+                            "responsiveStyles": {
+                              "large": {
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "position": "relative",
+                                "flexShrink": "0",
+                                "boxSizing": "border-box",
+                                "width": "100%",
+                                "minHeight": "20px",
+                                "minWidth": "20px",
+                                "overflow": "hidden",
+                                "marginBottom": "20px"
+                              }
+                            }
+                          }
+                        ],
+                        "width": 33.333333
+                      },
+                      {
+                        "blocks": [
+                          {
+                            "@type": "@builder.io/sdk:Element",
+                            "@version": 2,
+                            "id": "builder-7017303417714c9fba734e2fab961bee",
+                            "component": {
+                              "name": "Text",
+                              "options": {
+                                "text": "<p>Sporting Events </p>"
+                              }
+                            },
+                            "responsiveStyles": {
+                              "large": {
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "position": "relative",
+                                "flexShrink": "0",
+                                "boxSizing": "border-box",
+                                "lineHeight": "normal",
+                                "height": "auto",
+                                "color": "rgba(237, 28, 36, 1)",
+                                "fontWeight": "600"
+                              }
+                            }
+                          },
+                          {
+                            "@type": "@builder.io/sdk:Element",
+                            "@version": 2,
+                            "id": "builder-1357524fd03d4e56a06853f3b6897876",
+                            "component": {
+                              "name": "Heading",
+                              "options": {
+                                "heading": " Minibus Hire Coach Hire for Sports Event ",
+                                "category": "h3",
+                                "noBottomMargin": true,
+                                "colour": "secondary"
+                              }
+                            },
+                            "responsiveStyles": {
+                              "large": {
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "position": "relative",
+                                "flexShrink": "0",
+                                "boxSizing": "border-box",
+                                "marginTop": "20px"
+                              }
+                            }
+                          },
+                          {
+                            "@type": "@builder.io/sdk:Element",
+                            "@version": 2,
+                            "id": "builder-a0de1c56ea814450b0f5a50194bd3206",
+                            "component": {
+                              "name": "Text",
+                              "options": {
+                                "text": "<p>BHX Travel offers a wide range of travel covering sporting events. Whether you’re off to support your local football team away or if you and a group of friends fancy a day at The Edgbaston Cricket Club for a game of Cricket or may or Kingston Oval or may be you are off to watch a live game of Darts championship or may be off to watch a game of Rugby. </p>"
+                              }
+                            },
+                            "responsiveStyles": {
+                              "large": {
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "position": "relative",
+                                "flexShrink": "0",
+                                "boxSizing": "border-box",
+                                "marginTop": "20px",
+                                "lineHeight": "normal",
+                                "height": "auto"
+                              }
+                            }
+                          }
+                        ],
+                        "width": 66.666666
+                      }
+                    ],
+                    "space": 20,
+                    "stackColumnsAt": "mobile",
+                    "reverseColumnsWhenStacked": false
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "marginTop": "20px"
+                  }
+                }
+              }
+            ],
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "0px",
+                "paddingLeft": "20px",
+                "paddingRight": "20px",
+                "paddingTop": "40px",
+                "paddingBottom": "40px",
+                "minHeight": "100px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-914e78fa96834db082e0c3fb8038e358",
+            "properties": {
+              "id": "corporate-events "
+            },
+            "class": "service-block",
+            "meta": {
+              "previousId": "builder-b9a9a16080874f2da7232432639d7bb3"
+            },
+            "component": {
+              "name": "Core:Section",
+              "options": {
+                "maxWidth": 1200,
+                "lazyLoad": false
+              }
+            },
+            "children": [
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-8fd346002f58475e959ae6218da59846",
+                "meta": {
+                  "previousId": "builder-a6228c0b72214f668df3e58d701431ca"
+                },
+                "component": {
+                  "name": "Columns",
+                  "options": {
+                    "columns": [
+                      {
+                        "blocks": [
+                          {
+                            "@type": "@builder.io/sdk:Element",
+                            "@version": 2,
+                            "id": "builder-76b88539248c41108bbbaab4e64aacce",
+                            "component": {
+                              "name": "Image",
+                              "options": {
+                                "image": "https://cdn.builder.io/api/v1/image/assets%2Fc02cb8c5852a4aabbd6ab84b06225a74%2Fc87293bb9e464da0a3cbeb1b8ca05c89?width=598",
+                                "backgroundSize": "cover",
+                                "backgroundPosition": "center",
+                                "lazy": false,
+                                "fitContent": true,
+                                "aspectRatio": 1.042,
+                                "lockAspectRatio": false,
+                                "height": 351,
+                                "width": 337,
+                                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fc02cb8c5852a4aabbd6ab84b06225a74%2Fc87293bb9e464da0a3cbeb1b8ca05c89?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fc02cb8c5852a4aabbd6ab84b06225a74%2Fc87293bb9e464da0a3cbeb1b8ca05c89?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fc02cb8c5852a4aabbd6ab84b06225a74%2Fc87293bb9e464da0a3cbeb1b8ca05c89?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fc02cb8c5852a4aabbd6ab84b06225a74%2Fc87293bb9e464da0a3cbeb1b8ca05c89?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fc02cb8c5852a4aabbd6ab84b06225a74%2Fc87293bb9e464da0a3cbeb1b8ca05c89?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fc02cb8c5852a4aabbd6ab84b06225a74%2Fc87293bb9e464da0a3cbeb1b8ca05c89?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fc02cb8c5852a4aabbd6ab84b06225a74%2Fc87293bb9e464da0a3cbeb1b8ca05c89?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fc02cb8c5852a4aabbd6ab84b06225a74%2Fc87293bb9e464da0a3cbeb1b8ca05c89?width=598 598w, https://cdn.builder.io/api/v1/image/assets%2Fc02cb8c5852a4aabbd6ab84b06225a74%2Fc87293bb9e464da0a3cbeb1b8ca05c89?width=310 310w, https://cdn.builder.io/api/v1/image/assets%2Fc02cb8c5852a4aabbd6ab84b06225a74%2Fc87293bb9e464da0a3cbeb1b8ca05c89?width=390 390w",
+                                "sizes": "(max-width: 638px) 94vw, (max-width: 998px) 32vw, 28vw"
+                              }
+                            },
+                            "responsiveStyles": {
+                              "large": {
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "position": "relative",
+                                "flexShrink": "0",
+                                "boxSizing": "border-box",
+                                "width": "100%",
+                                "minHeight": "20px",
+                                "minWidth": "20px",
+                                "overflow": "hidden",
+                                "marginBottom": "20px"
+                              }
+                            }
+                          }
+                        ],
+                        "width": 33.333333
+                      },
+                      {
+                        "blocks": [
+                          {
+                            "@type": "@builder.io/sdk:Element",
+                            "@version": 2,
+                            "id": "builder-f7d236d789bf4c178492ddce331e2206",
+                            "component": {
+                              "name": "Text",
+                              "options": {
+                                "text": "<p> Corporate Events </p>"
+                              }
+                            },
+                            "responsiveStyles": {
+                              "large": {
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "position": "relative",
+                                "flexShrink": "0",
+                                "boxSizing": "border-box",
+                                "lineHeight": "normal",
+                                "height": "auto",
+                                "color": "rgba(237, 28, 36, 1)",
+                                "fontWeight": "600"
+                              }
+                            }
+                          },
+                          {
+                            "@type": "@builder.io/sdk:Element",
+                            "@version": 2,
+                            "id": "builder-68220e62ebee4279bf4745bbeabb56ee",
+                            "component": {
+                              "name": "Heading",
+                              "options": {
+                                "heading": " Minibus Hire / Coach Hire for Corporate Events",
+                                "category": "h3",
+                                "noBottomMargin": true,
+                                "colour": "secondary"
+                              }
+                            },
+                            "responsiveStyles": {
+                              "large": {
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "position": "relative",
+                                "flexShrink": "0",
+                                "boxSizing": "border-box",
+                                "marginTop": "20px"
+                              }
+                            }
+                          },
+                          {
+                            "@type": "@builder.io/sdk:Element",
+                            "@version": 2,
+                            "id": "builder-d0d751d8418e43f3b344e7a92f3abb61",
+                            "component": {
+                              "name": "Text",
+                              "options": {
+                                "text": "<p>  BHX Travel provides comprehensive Transportation solution for groups of All sizes and interests and corporate Transfers. Corporations, small or Large, Schools, Sports Trams, Film Units, Social groups, Religious groups we provide for all. we have a wide range of vehicles to suit your needs. </p>"
+                              }
+                            },
+                            "responsiveStyles": {
+                              "large": {
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "position": "relative",
+                                "flexShrink": "0",
+                                "boxSizing": "border-box",
+                                "marginTop": "20px",
+                                "lineHeight": "normal",
+                                "height": "auto"
+                              }
+                            }
+                          }
+                        ],
+                        "width": 66.666666
+                      }
+                    ],
+                    "space": 20,
+                    "stackColumnsAt": "mobile",
+                    "reverseColumnsWhenStacked": false
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "marginTop": "20px"
+                  }
+                }
+              }
+            ],
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "0px",
+                "paddingLeft": "20px",
+                "paddingRight": "20px",
+                "paddingTop": "40px",
+                "paddingBottom": "40px",
+                "minHeight": "100px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-cf40fe3b187c48e79072e085fcedc39d",
+            "properties": {
+              "id": "hen-stag-parties"
+            },
+            "class": "service-block",
+            "meta": {
+              "previousId": "builder-b9a9a16080874f2da7232432639d7bb3"
+            },
+            "component": {
+              "name": "Core:Section",
+              "options": {
+                "maxWidth": 1200,
+                "lazyLoad": false
+              }
+            },
+            "children": [
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-dc4d95a4d16a4c1facafcdda6e9bb01b",
+                "meta": {
+                  "previousId": "builder-a6228c0b72214f668df3e58d701431ca"
+                },
+                "component": {
+                  "name": "Columns",
+                  "options": {
+                    "columns": [
+                      {
+                        "blocks": [
+                          {
+                            "@type": "@builder.io/sdk:Element",
+                            "@version": 2,
+                            "id": "builder-887ee7e09a064014a226af0bc23587da",
+                            "component": {
+                              "name": "Image",
+                              "options": {
+                                "image": "https://cdn.builder.io/api/v1/image/assets%2Fc02cb8c5852a4aabbd6ab84b06225a74%2Fa7ca497dd60b4458aa0c08ced23e9e93?width=598",
+                                "backgroundSize": "cover",
+                                "backgroundPosition": "center",
+                                "lazy": false,
+                                "fitContent": true,
+                                "aspectRatio": 1.042,
+                                "lockAspectRatio": false,
+                                "height": 351,
+                                "width": 337,
+                                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fc02cb8c5852a4aabbd6ab84b06225a74%2Fa7ca497dd60b4458aa0c08ced23e9e93?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fc02cb8c5852a4aabbd6ab84b06225a74%2Fa7ca497dd60b4458aa0c08ced23e9e93?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fc02cb8c5852a4aabbd6ab84b06225a74%2Fa7ca497dd60b4458aa0c08ced23e9e93?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fc02cb8c5852a4aabbd6ab84b06225a74%2Fa7ca497dd60b4458aa0c08ced23e9e93?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fc02cb8c5852a4aabbd6ab84b06225a74%2Fa7ca497dd60b4458aa0c08ced23e9e93?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fc02cb8c5852a4aabbd6ab84b06225a74%2Fa7ca497dd60b4458aa0c08ced23e9e93?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fc02cb8c5852a4aabbd6ab84b06225a74%2Fa7ca497dd60b4458aa0c08ced23e9e93?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fc02cb8c5852a4aabbd6ab84b06225a74%2Fa7ca497dd60b4458aa0c08ced23e9e93?width=598 598w, https://cdn.builder.io/api/v1/image/assets%2Fc02cb8c5852a4aabbd6ab84b06225a74%2Fa7ca497dd60b4458aa0c08ced23e9e93?width=310 310w, https://cdn.builder.io/api/v1/image/assets%2Fc02cb8c5852a4aabbd6ab84b06225a74%2Fa7ca497dd60b4458aa0c08ced23e9e93?width=390 390w",
+                                "sizes": "(max-width: 638px) 94vw, (max-width: 998px) 32vw, 28vw"
+                              }
+                            },
+                            "responsiveStyles": {
+                              "large": {
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "position": "relative",
+                                "flexShrink": "0",
+                                "boxSizing": "border-box",
+                                "width": "100%",
+                                "minHeight": "20px",
+                                "minWidth": "20px",
+                                "overflow": "hidden",
+                                "marginBottom": "20px"
+                              }
+                            }
+                          }
+                        ],
+                        "width": 33.333333
+                      },
+                      {
+                        "blocks": [
+                          {
+                            "@type": "@builder.io/sdk:Element",
+                            "@version": 2,
+                            "id": "builder-753442aec94d44bd952993e8a167c748",
+                            "component": {
+                              "name": "Text",
+                              "options": {
+                                "text": "<p> Hen &amp; Stag Parties </p>"
+                              }
+                            },
+                            "responsiveStyles": {
+                              "large": {
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "position": "relative",
+                                "flexShrink": "0",
+                                "boxSizing": "border-box",
+                                "lineHeight": "normal",
+                                "height": "auto",
+                                "color": "rgba(237, 28, 36, 1)",
+                                "fontWeight": "600"
+                              }
+                            }
+                          },
+                          {
+                            "@type": "@builder.io/sdk:Element",
+                            "@version": 2,
+                            "id": "builder-b1278f12e6ea46f4a981a3516742e62e",
+                            "component": {
+                              "name": "Heading",
+                              "options": {
+                                "heading": " Minibus hire and Coach hire for Stag & Hen Weekend or Night ",
+                                "category": "h3",
+                                "noBottomMargin": true,
+                                "colour": "secondary"
+                              }
+                            },
+                            "responsiveStyles": {
+                              "large": {
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "position": "relative",
+                                "flexShrink": "0",
+                                "boxSizing": "border-box",
+                                "marginTop": "20px"
+                              }
+                            }
+                          },
+                          {
+                            "@type": "@builder.io/sdk:Element",
+                            "@version": 2,
+                            "id": "builder-517815fac6944d0fb4c320f253d88284",
+                            "component": {
+                              "name": "Text",
+                              "options": {
+                                "text": "<p>BHX Travel are the Local Birmingham minibus hire and National Minibus hire Specialist. we also Specialise in Birmingham Coach hire and National Coach hire. Our Minibus hire Birmingham and coach hire Birmingham service is ideal for both private and contract hire use throughout Birmingham and rest of UK. </p>"
+                              }
+                            },
+                            "responsiveStyles": {
+                              "large": {
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "position": "relative",
+                                "flexShrink": "0",
+                                "boxSizing": "border-box",
+                                "marginTop": "20px",
+                                "lineHeight": "normal",
+                                "height": "auto"
+                              }
+                            }
+                          }
+                        ],
+                        "width": 66.666666
+                      }
+                    ],
+                    "space": 20,
+                    "stackColumnsAt": "mobile",
+                    "reverseColumnsWhenStacked": false
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "marginTop": "20px"
+                  }
+                }
+              }
+            ],
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "0px",
+                "paddingLeft": "20px",
+                "paddingRight": "20px",
+                "paddingTop": "40px",
+                "paddingBottom": "40px",
+                "minHeight": "100px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-945ceb1eb6a94f328c0327cb47be47e0",
+            "properties": {
+              "id": "taxi-birmingham"
+            },
+            "meta": {
+              "previousId": "builder-cf40fe3b187c48e79072e085fcedc39d"
+            },
+            "component": {
+              "name": "Core:Section",
+              "options": {
+                "maxWidth": 1200,
+                "lazyLoad": false
+              }
+            },
+            "children": [
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-95bf84efb5bd487d9c21d5e59fa3c44e",
+                "meta": {
+                  "previousId": "builder-dc4d95a4d16a4c1facafcdda6e9bb01b"
+                },
+                "component": {
+                  "name": "Columns",
+                  "options": {
+                    "columns": [
+                      {
+                        "blocks": [
+                          {
+                            "@type": "@builder.io/sdk:Element",
+                            "@version": 2,
+                            "id": "builder-ad5513c484934629be941100e08009c9",
+                            "component": {
+                              "name": "Image",
+                              "options": {
+                                "image": "https://cdn.builder.io/api/v1/image/assets%2Fc02cb8c5852a4aabbd6ab84b06225a74%2Fdcb56d897fc24620bca63b8997e06233?width=598",
+                                "backgroundSize": "cover",
+                                "backgroundPosition": "center",
+                                "lazy": false,
+                                "fitContent": true,
+                                "aspectRatio": 1.042,
+                                "lockAspectRatio": false,
+                                "height": 351,
+                                "width": 337,
+                                "srcset": "https://cdn.builder.io/api/v1/image/assets%2Fc02cb8c5852a4aabbd6ab84b06225a74%2Fdcb56d897fc24620bca63b8997e06233?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2Fc02cb8c5852a4aabbd6ab84b06225a74%2Fdcb56d897fc24620bca63b8997e06233?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2Fc02cb8c5852a4aabbd6ab84b06225a74%2Fdcb56d897fc24620bca63b8997e06233?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2Fc02cb8c5852a4aabbd6ab84b06225a74%2Fdcb56d897fc24620bca63b8997e06233?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2Fc02cb8c5852a4aabbd6ab84b06225a74%2Fdcb56d897fc24620bca63b8997e06233?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2Fc02cb8c5852a4aabbd6ab84b06225a74%2Fdcb56d897fc24620bca63b8997e06233?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2Fc02cb8c5852a4aabbd6ab84b06225a74%2Fdcb56d897fc24620bca63b8997e06233?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2Fc02cb8c5852a4aabbd6ab84b06225a74%2Fdcb56d897fc24620bca63b8997e06233?width=598 598w, https://cdn.builder.io/api/v1/image/assets%2Fc02cb8c5852a4aabbd6ab84b06225a74%2Fdcb56d897fc24620bca63b8997e06233?width=310 310w, https://cdn.builder.io/api/v1/image/assets%2Fc02cb8c5852a4aabbd6ab84b06225a74%2Fdcb56d897fc24620bca63b8997e06233?width=390 390w",
+                                "sizes": "(max-width: 638px) 94vw, (max-width: 998px) 32vw, 28vw"
+                              }
+                            },
+                            "responsiveStyles": {
+                              "large": {
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "position": "relative",
+                                "flexShrink": "0",
+                                "boxSizing": "border-box",
+                                "width": "100%",
+                                "minHeight": "20px",
+                                "minWidth": "20px",
+                                "overflow": "hidden",
+                                "marginBottom": "20px"
+                              }
+                            }
+                          }
+                        ],
+                        "width": 33.333333
+                      },
+                      {
+                        "blocks": [
+                          {
+                            "@type": "@builder.io/sdk:Element",
+                            "@version": 2,
+                            "id": "builder-65e4da277942409ba810e1211fa932b7",
+                            "properties": {
+                              "id": "taxi-birmingham"
+                            },
+                            "component": {
+                              "name": "Text",
+                              "options": {
+                                "text": "<p>Taxi Birmingham </p>"
+                              }
+                            },
+                            "responsiveStyles": {
+                              "large": {
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "position": "relative",
+                                "flexShrink": "0",
+                                "boxSizing": "border-box",
+                                "lineHeight": "normal",
+                                "height": "auto",
+                                "color": "rgba(237, 28, 36, 1)",
+                                "fontWeight": "600"
+                              }
+                            }
+                          },
+                          {
+                            "@type": "@builder.io/sdk:Element",
+                            "@version": 2,
+                            "id": "builder-e6289de399814e398836b07dfc769ceb",
+                            "component": {
+                              "name": "Heading",
+                              "options": {
+                                "heading": " Minibus Hire Coach Hire for Taxi Birmingham ",
+                                "category": "h3",
+                                "noBottomMargin": true,
+                                "colour": "secondary"
+                              }
+                            },
+                            "responsiveStyles": {
+                              "large": {
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "position": "relative",
+                                "flexShrink": "0",
+                                "boxSizing": "border-box",
+                                "marginTop": "20px"
+                              }
+                            }
+                          },
+                          {
+                            "@type": "@builder.io/sdk:Element",
+                            "@version": 2,
+                            "id": "builder-008accc753504eb7bec3a6f725ff55f3",
+                            "component": {
+                              "name": "Text",
+                              "options": {
+                                "text": "<p>   Do you need an Airport Transfer from Birmingham? Upto 4 – 6 Passengers and Looking for a BHX Travel now offers Premier Private Hire Taxi Service. We can take you to and from Birmingham at best competitive prices. Call us today and we are sure to Quote you happy.  one of the quality service providers in UK. We have a very good number of well maintained Premium </p>"
+                              }
+                            },
+                            "responsiveStyles": {
+                              "large": {
+                                "display": "flex",
+                                "flexDirection": "column",
+                                "position": "relative",
+                                "flexShrink": "0",
+                                "boxSizing": "border-box",
+                                "marginTop": "20px",
+                                "lineHeight": "normal",
+                                "height": "auto"
+                              }
+                            }
+                          }
+                        ],
+                        "width": 66.666666
+                      }
+                    ],
+                    "space": 20,
+                    "stackColumnsAt": "mobile",
+                    "reverseColumnsWhenStacked": false
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "marginTop": "20px"
+                  }
+                }
+              }
+            ],
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "0px",
+                "paddingLeft": "20px",
+                "paddingRight": "20px",
+                "paddingTop": "40px",
+                "paddingBottom": "40px",
+                "minHeight": "100px"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "alignItems": "stretch",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box",
+            "width": "100%",
+            "paddingLeft": "0px",
+            "paddingRight": "0px"
+          }
+        }
+      }
+    ],
+    "url": "/services",
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "firstPublished": 1661549496994,
+  "id": "de689c11960d45f5befd785237d1a6fb",
+  "lastUpdated": 1664054745496,
+  "lastUpdatedBy": "0KS1GUNx43WgZAEkTfM99au0qiD3",
+  "meta": {
+    "componentsUsed": {
+      "Heading": 8
+    },
+    "dataSources": [],
+    "hasLinks": false,
+    "kind": "page",
+    "lastPreviewUrl": "https://bhxtravel.junaid.guru/services?builder.space=c02cb8c5852a4aabbd6ab84b06225a74&builder.cachebust=true&builder.preview=page&builder.noCache=true&__builder_editing__=true&builder.overrides.page=6267681827334de49281370776e13d59&builder.overrides.6267681827334de49281370776e13d59=6267681827334de49281370776e13d59&builder.overrides.page:/services=6267681827334de49281370776e13d59",
+    "originalContentId": "8fa8113c03004a7c89f0e46ba935508b",
+    "winningTest": null,
+    "needsHydration": false
+  },
+  "modelId": "54e6ebbcf70b4b08893c39bab37f6baf",
+  "name": "Services",
+  "published": "published",
+  "query": [
+    {
+      "@type": "@builder.io/core:Query",
+      "operator": "is",
+      "property": "urlPath",
+      "value": "/services"
+    }
+  ],
+  "testRatio": 1,
+  "variations": {},
+  "rev": "c2aur32rmrf",
+  "@originOrg": "c02cb8c5852a4aabbd6ab84b06225a74",
+  "@originContentId": "6267681827334de49281370776e13d59",
+  "@originModelId": "ff0529c09df640a5a92b32ef0c0c7f29"
+}

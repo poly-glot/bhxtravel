@@ -1,0 +1,411 @@
+{
+  "createdBy": "0KS1GUNx43WgZAEkTfM99au0qiD3",
+  "createdDate": 1662852785468,
+  "data": {
+    "customFonts": [
+      {
+        "family": "Poppins",
+        "isUserFont": true
+      }
+    ],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "layerName": "Section",
+        "id": "builder-db0c03fa64ef42ec8554fa380147435a",
+        "component": {
+          "name": "Core:Section",
+          "options": {
+            "maxWidth": 1200,
+            "lazyLoad": false
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-318bc764e7494489a32e575f008e2f20",
+            "children": [
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-374d142d63ba4d7ab8de046b79e55e68",
+                "component": {
+                  "name": "Image",
+                  "options": {
+                    "image": "https://cdn.builder.io/api/v1/image/assets%2Fc02cb8c5852a4aabbd6ab84b06225a74%2F4137e885cd2248ee9a980bfc3e42d341",
+                    "backgroundSize": "contain",
+                    "backgroundPosition": "center",
+                    "lazy": false,
+                    "fitContent": true,
+                    "aspectRatio": 0.407,
+                    "lockAspectRatio": false,
+                    "height": 70,
+                    "width": 172
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "marginTop": "0px",
+                    "width": "100%",
+                    "minHeight": "20px",
+                    "minWidth": "20px",
+                    "overflow": "hidden",
+                    "maxWidth": "172px",
+                    "marginRight": "auto",
+                    "marginLeft": "auto"
+                  }
+                }
+              }
+            ],
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "height": "auto",
+                "paddingBottom": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-53a3fcee085b4543b0aa194e8da3a4d7",
+            "children": [
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-db0bbcd2f4144594915f09f4a8a1e20d",
+                "component": {
+                  "name": "Text",
+                  "options": {
+                    "text": "<p>Our commitment to customer service and satisfaction means whatever your requirements we’ll endeavour to make your journey as safe, comfortable and most of all as enjoyable as can be possible.</p>"
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "marginTop": "20px",
+                    "height": "auto",
+                    "textAlign": "center",
+                    "maxWidth": "600px",
+                    "marginRight": "auto",
+                    "marginLeft": "auto"
+                  }
+                }
+              }
+            ],
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "0",
+                "height": "auto",
+                "paddingBottom": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-5634c482f9f54421a1ec86af42a1018e",
+            "meta": {
+              "previousId": "builder-67de6c2d12bd477eaf77aa49e080012c"
+            },
+            "component": {
+              "name": "Header Contact",
+              "options": {
+                "contacts": [
+                  {
+                    "text": " Highfield Road, Hall Green, Birmingham, B28 0HP ",
+                    "subheading": "Our Location",
+                    "icon": "LocationDotSolid",
+                    "heading": " Highfield Road, Hall Green, Birmingham, B28 0HP "
+                  },
+                  {
+                    "text": " +447528888685 ",
+                    "subheading": "Contact Number",
+                    "icon": "MobileScreenSolid",
+                    "heading": " +447528888685 "
+                  },
+                  {
+                    "text": " Mon-Fri 9.00am-19.00pm ",
+                    "subheading": "Office Hours",
+                    "icon": "ClockRegular",
+                    "heading": " Mon-Fri 9.00am-19.00pm "
+                  }
+                ]
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "marginRight": "auto",
+                "marginBottom": "20px",
+                "marginLeft": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-631e3586110f4f3592e8ab64954a5591",
+            "meta": {
+              "previousId": "builder-6c508b07a7ff4f82ac36266d1134b1d4"
+            },
+            "component": {
+              "name": "Social",
+              "options": {
+                "sociallinks": [
+                  {
+                    "link": "https://www.facebook.com/bhxtravel/",
+                    "icon": "Facebook"
+                  },
+                  {
+                    "link": "https://twitter.com/bhxtravel/",
+                    "icon": "Twitter"
+                  },
+                  {
+                    "link": "https://www.instagram.com/bhxtravel/",
+                    "icon": "Instagram"
+                  },
+                  {
+                    "link": "https://api.whatsapp.com/send?phone=+447528888685",
+                    "icon": "Whatsapp"
+                  }
+                ]
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginRight": "auto",
+                "marginLeft": "auto"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-de1909a9d54b4ee5ac1e337d0eba78f6",
+            "class": "banner",
+            "component": {
+              "name": "Columns",
+              "options": {
+                "columns": [
+                  {
+                    "blocks": [
+                      {
+                        "@type": "@builder.io/sdk:Element",
+                        "@version": 2,
+                        "id": "builder-b12adaaf56b145aeacc0abc9d9606a93",
+                        "class": "footer-banner",
+                        "meta": {
+                          "previousId": "builder-18c20af157844bbaa10e7b7c580cbb25"
+                        },
+                        "component": {
+                          "name": "Text",
+                          "options": {
+                            "text": "<p>BHX TRAVELS</p>\n<h2>NO PARTY IS TOO SMALL, <br />NO DISTANCE IS TOO FAR</h2>\n"
+                          }
+                        },
+                        "responsiveStyles": {
+                          "large": {
+                            "display": "flex",
+                            "flexDirection": "column",
+                            "position": "relative",
+                            "flexShrink": "0",
+                            "boxSizing": "border-box",
+                            "height": "auto"
+                          }
+                        }
+                      }
+                    ],
+                    "width": 66.666666
+                  },
+                  {
+                    "blocks": [
+                      {
+                        "@type": "@builder.io/sdk:Element",
+                        "@version": 2,
+                        "id": "builder-8a1cbb30b88f49ed9b0adeedbc6ed8eb",
+                        "meta": {
+                          "previousId": "builder-73722d028f0c47968b0b404ee6a01414"
+                        },
+                        "component": {
+                          "name": "Core:Button",
+                          "options": {
+                            "text": "Click Here to Request a Quotation  ",
+                            "openLinkInNewTab": false,
+                            "link": "/contact-us"
+                          }
+                        },
+                        "responsiveStyles": {
+                          "large": {
+                            "display": "flex",
+                            "flexDirection": "column",
+                            "position": "relative",
+                            "flexShrink": "0",
+                            "boxSizing": "border-box",
+                            "marginTop": "auto",
+                            "appearance": "none",
+                            "paddingTop": "15px",
+                            "paddingBottom": "15px",
+                            "paddingLeft": "25px",
+                            "paddingRight": "25px",
+                            "backgroundColor": "black",
+                            "color": "white",
+                            "borderRadius": "4px",
+                            "textAlign": "center",
+                            "cursor": "pointer",
+                            "marginBottom": "auto",
+                            "fontWeight": "600",
+                            "fontFamily": "\"Poppins\", sans-serif"
+                          }
+                        }
+                      }
+                    ],
+                    "width": 33.333333
+                  }
+                ],
+                "space": 20,
+                "stackColumnsAt": "tablet",
+                "reverseColumnsWhenStacked": false
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "backgroundColor": "rgba(94, 72, 246, 1)",
+                "paddingTop": "20px",
+                "paddingLeft": "20px",
+                "paddingBottom": "20px",
+                "paddingRight": "20px"
+              }
+            }
+          },
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-c09d144579df4b13b21a38991ed7243a",
+            "children": [
+              {
+                "@type": "@builder.io/sdk:Element",
+                "@version": 2,
+                "id": "builder-891f83b0112d48839f7528f3e1550413",
+                "component": {
+                  "name": "Text",
+                  "options": {
+                    "text": "<p>Copyright © 2021 bhxtravel.com All rights reserved.</p>"
+                  }
+                },
+                "responsiveStyles": {
+                  "large": {
+                    "display": "flex",
+                    "flexDirection": "column",
+                    "position": "relative",
+                    "flexShrink": "0",
+                    "boxSizing": "border-box",
+                    "marginTop": "0px",
+                    "lineHeight": "normal",
+                    "height": "auto",
+                    "textAlign": "center"
+                  }
+                }
+              }
+            ],
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "20px",
+                "marginBottom": "20px"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box",
+            "marginTop": "0px",
+            "paddingLeft": "20px",
+            "paddingRight": "20px",
+            "paddingTop": "20px",
+            "paddingBottom": "20px",
+            "minHeight": "100px",
+            "backgroundColor": "rgba(28, 37, 48, 1)",
+            "color": "rgba(255, 255, 255, 1)"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "id": "672bf09d65894816b63b79fc78138b8e",
+  "lastUpdatedBy": "0KS1GUNx43WgZAEkTfM99au0qiD3",
+  "meta": {
+    "componentsUsed": {
+      "Header Contact": 1,
+      "Social": 1
+    },
+    "hasLinks": false,
+    "kind": "component",
+    "lastPreviewUrl": "http://localhost:3000?builder.space=c02cb8c5852a4aabbd6ab84b06225a74&builder.cachebust=true&builder.preview=footer&builder.noCache=true&__builder_editing__=true&builder.overrides.footer=a198afb054404eb2a3bfe9d21c60f9b1&builder.overrides.a198afb054404eb2a3bfe9d21c60f9b1=a198afb054404eb2a3bfe9d21c60f9b1",
+    "needsHydration": false
+  },
+  "modelId": "ea8a623e5e9242f5a358fa00a09a7847",
+  "name": "Footer",
+  "published": "published",
+  "query": [],
+  "testRatio": 1,
+  "variations": {},
+  "lastUpdated": 1664027222905,
+  "firstPublished": 1662853352976,
+  "rev": "ak1t6msbnj6",
+  "@originOrg": "c02cb8c5852a4aabbd6ab84b06225a74",
+  "@originContentId": "a198afb054404eb2a3bfe9d21c60f9b1",
+  "@originModelId": "ba6b173a3fa5492186cd8d42f16446d4"
+}
