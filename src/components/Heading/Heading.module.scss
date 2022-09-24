@@ -1,0 +1,30 @@
+@import "../../styles/variables";
+
+.container {
+  color: $heading-color;
+  margin-bottom: 20px;
+
+  &--no-margin {
+    margin-bottom: 0;
+  }
+
+  &[data-colour="primary"] {
+    color: $primary-color;
+  }
+
+  &[data-colour="secondary"] {
+    color: $secondary-color;
+  }
+
+  &[data-colour="blue"] {
+    color: $heading-color;
+  }
+
+  &[data-colour="white"] {
+    color: #fff;
+  }
+
+  &[data-colour="purple"] {
+    color: #5248a4;
+  }
+}

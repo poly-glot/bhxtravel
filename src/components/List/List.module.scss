@@ -1,0 +1,24 @@
+@import "../../styles/variables";
+
+.container {
+  list-style: none;
+  margin-left: 0;
+  padding-left: 0;
+}
+
+.item {
+  position: relative;
+  padding-left: 40px;
+  padding-bottom: 8px;
+  margin-bottom: 8px;
+
+  p:first-of-type {
+    margin: 0;
+  }
+}
+
+.icon {
+  position: absolute;
+  left: 0;
+  top: 0;
+}

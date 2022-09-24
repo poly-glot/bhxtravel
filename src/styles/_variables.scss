@@ -1,0 +1,56 @@
+// Variables
+$primary-color: #ed1c24;
+$primary-text-color: #fff;
+$secondary-color: #1c2530;
+$secondary-text-color: #fff;
+$form-background: #f3f3f3;
+$nav-color: #312783;
+$nav-text-color: #fff;
+$banner-color: #5e48f6;
+$banner-text-color: #fff;
+$heading-color: #6ec1e4;
+$heading: "Poppins", -apple-system, blinkmacsystemfont, segoe ui, roboto, oxygen,
+  ubuntu, cantarell, fira sans, droid sans, helvetica neue, sans-serif;
+$body: "Mulish", -apple-system, blinkmacsystemfont, segoe ui, roboto, oxygen,
+  ubuntu, cantarell, fira sans, droid sans, helvetica neue, sans-serif;
+$body-weight: 400;
+$heading-weight: 600;
+$extra-weight: 900;
+$breakpoints: (
+  "phone": 360px,
+  "tablet-portrait": 768px,
+  "tablet-landscape": 1024px,
+  "desktop": 1280px,
+) !default;
+$navigation-height: 60px;
+
+// Mixins
+@mixin small-mobile {
+  @media (max-width: #{map-get($breakpoints, "phone")}) {
+    @content;
+  }
+}
+
+@mixin mobile {
+  @media (max-width: #{map-get($breakpoints, "tablet-portrait") - 1px}) {
+    @content;
+  }
+}
+
+@mixin tablet {
+  @media (min-width: #{map-get($breakpoints, "tablet-portrait")}) {
+    @content;
+  }
+}
+
+@mixin tablet-landscape {
+  @media (min-width: #{map-get($breakpoints, "tablet-landscape")}) {
+    @content;
+  }
+}
+
+@mixin desktop {
+  @media (min-width: #{map-get($breakpoints, "desktop")}) {
+    @content;
+  }
+}

@@ -1,0 +1,44 @@
+@import "../../styles/variables";
+
+.container {
+  display: flex;
+  flex-direction: column;
+
+  @include tablet {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    font-size: 0.8rem;
+  }
+
+  @include desktop {
+    font-size: 0.9rem;
+  }
+}
+
+.item {
+  flex: 1;
+  position: relative;
+  padding-left: 32px;
+  margin-bottom: 15px;
+  max-width: 240px;
+}
+
+.icon {
+  position: absolute;
+  left: 0;
+  top: 0;
+  fill: $primary-color;
+}
+
+.heading {
+  font-family: $heading;
+  font-weight: $heading-weight;
+}
+
+.link {
+  display: inline-block;
+  padding-right: 20px;
+  text-transform: uppercase;
+  font-weight: bold;
+}

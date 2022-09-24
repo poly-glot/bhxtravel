@@ -1,0 +1,15 @@
+@import "../../styles/variables";
+
+.terms {
+  a {
+    color: $primary-color;
+    font-weight: bold;
+  }
+}
+
+.instruction {
+  margin: 15px 0;
+  padding: 15px 0;
+  border-top: 1px dashed rgba(0, 0, 0, 0.5);
+  border-bottom: 1px dashed rgba(0, 0, 0, 0.5);
+}
