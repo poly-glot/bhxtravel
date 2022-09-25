@@ -23,4 +23,5 @@ module.exports = {
   env: {
     BUILDER_PUBLIC_KEY: process.env.NEXT_PUBLIC_BUILDER_ID,
   },
+  poweredByHeader: false,
 }
