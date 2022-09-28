@@ -17,7 +17,7 @@
   "strictPrivateWrite": false,
   "hideFromUI": false,
   "helperText": "",
-  "examplePageUrl": "https://bhxtravel.junaid.guru/",
+  "examplePageUrl": "http://localhost:3000/",
   "name": "page",
   "allowBuiltInComponents": true,
   "bigData": false,

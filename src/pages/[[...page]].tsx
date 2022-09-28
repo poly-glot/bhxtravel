@@ -6,6 +6,7 @@ import { GetServerSidePropsContext } from "next/types";
 import SiteHead from "../components/SiteHead";
 import SiteHeader from "../components/SiteHeader";
 import SiteFooter from "../components/SiteFooter";
+import { removeTracking } from "../utils/utils";
 
 export async function getStaticProps({
   params,
@@ -22,14 +23,14 @@ export async function getStaticProps({
   const header = await builder.get("header", { url: resolvedUrl }).promise();
   const footer = await builder.get("footer", { url: resolvedUrl }).promise();
 
-  return {
+  return removeTracking({
     props: {
       page: page || null,
       header: header || null,
       footer: footer || null,
     },
-    revalidate: 5,
-  };
+    revalidate: 15,
+  });
 }
 
 export async function getStaticPaths() {

@@ -512,7 +512,7 @@
     "dataSources": [],
     "hasLinks": false,
     "kind": "page",
-    "lastPreviewUrl": "https://bhxtravel.junaid.guru/about?builder.space=c02cb8c5852a4aabbd6ab84b06225a74&builder.cachebust=true&builder.preview=page&builder.noCache=true&__builder_editing__=true&builder.overrides.page=cae82df0c64c477e8eef54ebd9afb27f&builder.overrides.cae82df0c64c477e8eef54ebd9afb27f=cae82df0c64c477e8eef54ebd9afb27f&builder.overrides.page:/about=cae82df0c64c477e8eef54ebd9afb27f",
+    "lastPreviewUrl": "http://localhost:3000/about?builder.space=c02cb8c5852a4aabbd6ab84b06225a74&builder.cachebust=true&builder.preview=page&builder.noCache=true&__builder_editing__=true&builder.overrides.page=cae82df0c64c477e8eef54ebd9afb27f&builder.overrides.cae82df0c64c477e8eef54ebd9afb27f=cae82df0c64c477e8eef54ebd9afb27f&builder.overrides.page:/about=cae82df0c64c477e8eef54ebd9afb27f",
     "originalContentId": "faabe47ec61d4fa3a40a08082263fead",
     "winningTest": null,
     "needsHydration": false
