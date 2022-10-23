@@ -1,0 +1,61 @@
+{
+  "settings": {
+    "customComponents": [
+      "Header",
+      "Shoes",
+      "Navigation",
+      "Icon",
+      "Header Contact",
+      "Social",
+      "Heading",
+      "Review",
+      "List",
+      "Cta",
+      "QuoteForm"
+    ],
+    "swatchColors": [
+      "#D0021B",
+      "#F5A623",
+      "#F8E71C",
+      "#8B572A",
+      "#7ED321",
+      "#417505",
+      "#BD10E0",
+      "#9013FE",
+      "#4A90E2",
+      "#50E3C2",
+      "#B8E986",
+      "#000000",
+      "#4A4A4A",
+      "#9B9B9B",
+      "#FFFFFF",
+      "rgba(237, 28, 36, 1)",
+      "rgba(110, 193, 228, 1)",
+      "rgba(64, 51, 173, 1)"
+    ],
+    "lazyLoadImages": false
+  },
+  "type": "space",
+  "siteUrl": "https://bhxtravel.junaid.guru",
+  "name": "BHX Travel ",
+  "loadPlugins": [],
+  "id": "c02cb8c5852a4aabbd6ab84b06225a74",
+  "@version": 6,
+  "cloneInfo": {
+    "contentIdMap": {
+      "4dfb95f96912433ca902a881760f6920": "80562802a1134794852d38cc2bd2129b",
+      "080f71deb7734d158918d7a54592dcac": "2efe790ce9ec4519a70d80b83697f180",
+      "a198afb054404eb2a3bfe9d21c60f9b1": "672bf09d65894816b63b79fc78138b8e",
+      "cae82df0c64c477e8eef54ebd9afb27f": "7be5332b040146b890f7180e8e56ae9a",
+      "6267681827334de49281370776e13d59": "de689c11960d45f5befd785237d1a6fb",
+      "3dcd638e087743e09f64af04b0ba6d48": "8fa8113c03004a7c89f0e46ba935508b",
+      "135fa13e18f543cfa04a680ed42234db": "faabe47ec61d4fa3a40a08082263fead"
+    },
+    "modelIdMap": {
+      "154a3b17d8e24a4a8e96b73e0ee5b2f2": "677922f7a9af4c798198c4bed34246b2",
+      "f746e5b7ab6844bf998795a7410e3e10": "ba33b611ea0e45ea9a39c138ccf1259f",
+      "ba6b173a3fa5492186cd8d42f16446d4": "ea8a623e5e9242f5a358fa00a09a7847",
+      "ff0529c09df640a5a92b32ef0c0c7f29": "54e6ebbcf70b4b08893c39bab37f6baf"
+    }
+  }
+}

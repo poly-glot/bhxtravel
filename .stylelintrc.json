@@ -1,0 +1,18 @@
+{
+  "extends": [
+    "stylelint-config-standard-scss",
+    "stylelint-config-prettier"
+  ],
+  "plugins": [
+    "stylelint-order"
+  ],
+  "rules": {
+    "order/order": [
+      "custom-properties",
+      "declarations"
+    ],
+    "order/properties-alphabetical-order": true,
+    "selector-class-pattern": "^[a-z][a-z0-9_-]+$",
+    "custom-property-pattern": null
+  }
+}

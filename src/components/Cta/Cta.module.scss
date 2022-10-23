@@ -1,0 +1,25 @@
+@import "../../styles/variables";
+
+.cta {
+  appearance: none;
+  border: 0;
+  background-color: $primary-color;
+  display: block;
+  max-width: max-content;
+  border-radius: 3px;
+  padding: 20px;
+  font-family: $heading;
+  font-weight: $heading-weight;
+  color: $primary-text-color;
+
+  &:hover,
+  &:focus,
+  &:active {
+    background-color: $secondary-color;
+    color: $secondary-text-color;
+  }
+
+  &[disabled] {
+    background-color: #808080;
+  }
+}

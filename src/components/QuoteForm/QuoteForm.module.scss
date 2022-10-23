@@ -1,0 +1,54 @@
+@import "../../styles/variables";
+
+.form {
+  position: relative;
+}
+
+.terms {
+  a {
+    color: $primary-color;
+    font-weight: bold;
+  }
+}
+
+.instruction {
+  margin: 15px 0;
+  padding: 15px;
+  border-top: 1px dashed rgba(0, 0, 0, 0.5);
+  border-bottom: 1px dashed rgba(0, 0, 0, 0.5);
+}
+
+.instructionError {
+  background-color: #ed1c24;
+  color: #fff;
+  font-weight: $heading-weight;
+}
+
+.thanks {
+  position: fixed;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  z-index: 1;
+}
+
+.close {
+  appearance: none;
+  color: blue;
+  background-color: transparent;
+  border: 0;
+  outline: 0;
+  cursor: pointer;
+}
+
+.submit {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}

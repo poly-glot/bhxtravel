@@ -1,0 +1,30 @@
+name: Backup Content
+
+on:
+  schedule:
+    # every friday
+    - cron: '0 23 * * 5'
+
+jobs:
+  audit:
+    name: Backup Content
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 16
+      - name: Backup
+        run: |
+          npm install @builder.io/cli -g
+          builder import -k $BUILDER_PRIVATE_KEY -o ./builder-content
+        env:
+          BUILDER_PRIVATE_KEY: ${{ secrets.BUILDER_PRIVATE_KEY }}
+
+      - name: Upload content
+        uses: actions/upload-artifact@v3
+        with:
+          name: builder-content
+          path: ./builder-content
+          if-no-files-found: error
+          retention-days: 90

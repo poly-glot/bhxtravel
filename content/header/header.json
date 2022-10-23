@@ -1,0 +1,402 @@
+{
+  "createdBy": "0KS1GUNx43WgZAEkTfM99au0qiD3",
+  "createdDate": 1662823532001,
+  "data": {
+    "customFonts": [
+      {
+        "category": "sans-serif",
+        "family": "Poppins",
+        "files": {
+          "100": "https://fonts.gstatic.com/s/poppins/v5/pxiGyp8kv8JHgFVrLPTedw.ttf",
+          "200": "https://fonts.gstatic.com/s/poppins/v5/pxiByp8kv8JHgFVrLFj_V1s.ttf",
+          "300": "https://fonts.gstatic.com/s/poppins/v5/pxiByp8kv8JHgFVrLDz8V1s.ttf",
+          "500": "https://fonts.gstatic.com/s/poppins/v5/pxiByp8kv8JHgFVrLGT9V1s.ttf",
+          "600": "https://fonts.gstatic.com/s/poppins/v5/pxiByp8kv8JHgFVrLEj6V1s.ttf",
+          "700": "https://fonts.gstatic.com/s/poppins/v5/pxiByp8kv8JHgFVrLCz7V1s.ttf",
+          "800": "https://fonts.gstatic.com/s/poppins/v5/pxiByp8kv8JHgFVrLDD4V1s.ttf",
+          "900": "https://fonts.gstatic.com/s/poppins/v5/pxiByp8kv8JHgFVrLBT5V1s.ttf",
+          "100italic": "https://fonts.gstatic.com/s/poppins/v5/pxiAyp8kv8JHgFVrJJLmE3tF.ttf",
+          "200italic": "https://fonts.gstatic.com/s/poppins/v5/pxiDyp8kv8JHgFVrJJLmv1plEA.ttf",
+          "300italic": "https://fonts.gstatic.com/s/poppins/v5/pxiDyp8kv8JHgFVrJJLm21llEA.ttf",
+          "500italic": "https://fonts.gstatic.com/s/poppins/v5/pxiDyp8kv8JHgFVrJJLmg1hlEA.ttf",
+          "600italic": "https://fonts.gstatic.com/s/poppins/v5/pxiDyp8kv8JHgFVrJJLmr19lEA.ttf",
+          "700italic": "https://fonts.gstatic.com/s/poppins/v5/pxiDyp8kv8JHgFVrJJLmy15lEA.ttf",
+          "800italic": "https://fonts.gstatic.com/s/poppins/v5/pxiDyp8kv8JHgFVrJJLm111lEA.ttf",
+          "900italic": "https://fonts.gstatic.com/s/poppins/v5/pxiDyp8kv8JHgFVrJJLm81xlEA.ttf",
+          "italic": "https://fonts.gstatic.com/s/poppins/v5/pxiGyp8kv8JHgFVrJJLedw.ttf",
+          "regular": "https://fonts.gstatic.com/s/poppins/v5/pxiEyp8kv8JHgFVrFJA.ttf"
+        },
+        "kind": "webfonts#webfont",
+        "lastModified": "2017-11-21",
+        "subsets": [
+          "latin",
+          "latin-ext",
+          "devanagari"
+        ],
+        "variants": [
+          "100",
+          "100italic",
+          "200",
+          "200italic",
+          "300",
+          "300italic",
+          "regular",
+          "italic",
+          "500",
+          "500italic",
+          "600",
+          "600italic",
+          "700",
+          "700italic",
+          "800",
+          "800italic",
+          "900",
+          "900italic"
+        ],
+        "version": "v5"
+      }
+    ],
+    "inputs": [],
+    "blocks": [
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "layerName": "Section",
+        "id": "builder-76c6c58908df42fdb6828c46c3cda92d",
+        "component": {
+          "name": "Core:Section",
+          "options": {
+            "maxWidth": 1200,
+            "lazyLoad": false
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-d1160d4fd8b14f7c86d4899d092e9d26",
+            "meta": {
+              "previousId": "builder-fe67879111304b8fb7d9c7b5e1f09f1e"
+            },
+            "component": {
+              "name": "Columns",
+              "options": {
+                "columns": [
+                  {
+                    "blocks": [
+                      {
+                        "@type": "@builder.io/sdk:Element",
+                        "@version": 2,
+                        "tagName": "a",
+                        "id": "builder-67480ea8ff754e48a2590b60071ed183",
+                        "properties": {
+                          "href": "/"
+                        },
+                        "linkUrl": "/",
+                        "component": {
+                          "name": "Image",
+                          "options": {
+                            "image": "https://cdn.builder.io/api/v1/image/assets%2Fc02cb8c5852a4aabbd6ab84b06225a74%2F59615ec25ef34e08baa0534d213f00e7",
+                            "backgroundSize": "contain",
+                            "backgroundPosition": "center",
+                            "lazy": false,
+                            "fitContent": true,
+                            "aspectRatio": 0.398,
+                            "lockAspectRatio": false,
+                            "height": 246,
+                            "width": 618,
+                            "noWebp": true
+                          }
+                        },
+                        "responsiveStyles": {
+                          "large": {
+                            "display": "flex",
+                            "flexDirection": "column",
+                            "position": "relative",
+                            "flexShrink": "0",
+                            "boxSizing": "border-box",
+                            "marginTop": "0",
+                            "width": "100%",
+                            "minHeight": "20px",
+                            "minWidth": "20px",
+                            "overflow": "hidden",
+                            "marginRight": "auto",
+                            "maxWidth": "203px",
+                            "cursor": "pointer",
+                            "pointerEvents": "auto"
+                          }
+                        }
+                      }
+                    ],
+                    "width": 33.333333
+                  },
+                  {
+                    "blocks": [
+                      {
+                        "@type": "@builder.io/sdk:Element",
+                        "@version": 2,
+                        "id": "builder-67de6c2d12bd477eaf77aa49e080012c",
+                        "component": {
+                          "name": "Header Contact",
+                          "options": {
+                            "contacts": [
+                              {
+                                "text": " Highfield Road, Hall Green, Birmingham, B28 0HP ",
+                                "subheading": "Our Location",
+                                "icon": "LocationDotSolid",
+                                "heading": " Highfield Road, Hall Green, Birmingham, B28 0HP "
+                              },
+                              {
+                                "text": " +447528888685 ",
+                                "subheading": "Contact Number",
+                                "icon": "MobileScreenSolid",
+                                "heading": " +447528888685 "
+                              },
+                              {
+                                "text": " Mon-Fri 9.00am-19.00pm ",
+                                "subheading": "Office Hours",
+                                "icon": "ClockRegular",
+                                "heading": " Mon-Fri 9.00am-19.00pm "
+                              }
+                            ]
+                          }
+                        },
+                        "responsiveStyles": {
+                          "large": {
+                            "display": "flex",
+                            "flexDirection": "column",
+                            "position": "relative",
+                            "flexShrink": "0",
+                            "boxSizing": "border-box",
+                            "marginTop": "20px"
+                          },
+                          "medium": {
+                            "display": "flex"
+                          },
+                          "small": {
+                            "display": "none"
+                          }
+                        }
+                      }
+                    ],
+                    "width": 66.666666
+                  }
+                ],
+                "space": 20,
+                "stackColumnsAt": "mobile",
+                "reverseColumnsWhenStacked": false
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "marginTop": "0px"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box",
+            "marginTop": "0px",
+            "paddingLeft": "10px",
+            "paddingRight": "10px",
+            "paddingTop": "10px",
+            "paddingBottom": "10px",
+            "minHeight": "82px"
+          }
+        }
+      },
+      {
+        "@type": "@builder.io/sdk:Element",
+        "@version": 2,
+        "layerName": "Section",
+        "id": "builder-7c789e7e5e4749a781a0f45ad1b661f2",
+        "meta": {
+          "previousId": "builder-76c6c58908df42fdb6828c46c3cda92d"
+        },
+        "component": {
+          "name": "Core:Section",
+          "options": {
+            "maxWidth": 1200,
+            "lazyLoad": false
+          }
+        },
+        "children": [
+          {
+            "@type": "@builder.io/sdk:Element",
+            "@version": 2,
+            "id": "builder-16261d0554d449b4973bea27907df345",
+            "meta": {
+              "previousId": "builder-d1160d4fd8b14f7c86d4899d092e9d26"
+            },
+            "component": {
+              "name": "Columns",
+              "options": {
+                "columns": [
+                  {
+                    "blocks": [
+                      {
+                        "@type": "@builder.io/sdk:Element",
+                        "@version": 2,
+                        "id": "builder-c59db3018811463ba44145a5e96ecbc7",
+                        "component": {
+                          "name": "Navigation",
+                          "options": {
+                            "nuShoes": 100,
+                            "ambientLight": 0.5,
+                            "links": [
+                              {
+                                "text": "Home",
+                                "url": "/"
+                              },
+                              {
+                                "text": "About",
+                                "url": "/about/"
+                              },
+                              {
+                                "text": "Services",
+                                "url": "/services/"
+                              },
+                              {
+                                "text": "Contact",
+                                "url": "/contact-us/"
+                              }
+                            ]
+                          }
+                        },
+                        "responsiveStyles": {
+                          "large": {
+                            "display": "flex",
+                            "flexDirection": "column",
+                            "position": "relative",
+                            "flexShrink": "0",
+                            "boxSizing": "border-box"
+                          }
+                        }
+                      }
+                    ],
+                    "width": 66.666666
+                  },
+                  {
+                    "blocks": [
+                      {
+                        "@type": "@builder.io/sdk:Element",
+                        "@version": 2,
+                        "id": "builder-6c508b07a7ff4f82ac36266d1134b1d4",
+                        "component": {
+                          "name": "Social",
+                          "options": {
+                            "sociallinks": [
+                              {
+                                "link": "https://www.facebook.com/bhxtravel/",
+                                "icon": "Facebook"
+                              },
+                              {
+                                "link": "https://twitter.com/bhxtravel/",
+                                "icon": "Twitter"
+                              },
+                              {
+                                "link": "https://www.instagram.com/bhxtravel/",
+                                "icon": "Instagram"
+                              },
+                              {
+                                "link": "https://api.whatsapp.com/send?phone=+447528888685",
+                                "icon": "Whatsapp"
+                              }
+                            ]
+                          }
+                        },
+                        "responsiveStyles": {
+                          "large": {
+                            "display": "flex",
+                            "flexDirection": "column",
+                            "position": "relative",
+                            "flexShrink": "0",
+                            "boxSizing": "border-box"
+                          }
+                        }
+                      }
+                    ],
+                    "width": 33.333333
+                  }
+                ],
+                "space": 20,
+                "stackColumnsAt": "mobile",
+                "reverseColumnsWhenStacked": false
+              }
+            },
+            "responsiveStyles": {
+              "large": {
+                "display": "flex",
+                "flexDirection": "column",
+                "position": "relative",
+                "flexShrink": "0",
+                "boxSizing": "border-box",
+                "flexGrow": "1",
+                "justify-content": "center"
+              }
+            }
+          }
+        ],
+        "responsiveStyles": {
+          "large": {
+            "display": "flex",
+            "flexDirection": "column",
+            "position": "relative",
+            "flexShrink": "0",
+            "boxSizing": "border-box",
+            "marginTop": "0px",
+            "paddingLeft": "10px",
+            "paddingRight": "10px",
+            "paddingTop": "0px",
+            "paddingBottom": "0px",
+            "minHeight": "60px",
+            "backgroundColor": "rgba(237, 28, 36, 1)",
+            "color": "rgba(255, 255, 255, 1)"
+          }
+        }
+      }
+    ],
+    "state": {
+      "deviceSize": "large",
+      "location": {
+        "path": "",
+        "query": {}
+      }
+    }
+  },
+  "id": "80562802a1134794852d38cc2bd2129b",
+  "lastUpdatedBy": "0KS1GUNx43WgZAEkTfM99au0qiD3",
+  "meta": {
+    "componentsUsed": {
+      "Header Contact": 1,
+      "Navigation": 1,
+      "Social": 1
+    },
+    "hasLinks": true,
+    "kind": "component",
+    "lastPreviewUrl": "http://localhost:3000?builder.space=c02cb8c5852a4aabbd6ab84b06225a74&builder.cachebust=true&builder.preview=header&builder.noCache=true&__builder_editing__=true&builder.overrides.header=4dfb95f96912433ca902a881760f6920&builder.overrides.4dfb95f96912433ca902a881760f6920=4dfb95f96912433ca902a881760f6920",
+    "needsHydration": false
+  },
+  "modelId": "677922f7a9af4c798198c4bed34246b2",
+  "name": "Header",
+  "published": "published",
+  "query": [],
+  "testRatio": 1,
+  "variations": {},
+  "lastUpdated": 1664051861500,
+  "firstPublished": 1662853364383,
+  "rev": "mx5x5oe3o1l",
+  "@originOrg": "c02cb8c5852a4aabbd6ab84b06225a74",
+  "@originContentId": "4dfb95f96912433ca902a881760f6920",
+  "@originModelId": "154a3b17d8e24a4a8e96b73e0ee5b2f2"
+}
