@@ -16,15 +16,15 @@
     "lint:css": "stylelint --fix src/**/*.scss"
   },
   "dependencies": {
-    "@builder.io/react": "^2.0.5",
-    "@sendgrid/mail": "^7.7.0",
+    "@builder.io/react": "^3.2.12",
     "@vercel/fetch": "^6.2.0",
     "classnames": "^2.3.1",
     "next": "^14.2.29",
     "react": "^18.1.0",
     "react-dom": "^18.1.0",
+    "resend": "^6.9.2",
     "zod": "^3.19.1",
-    "zod-validation-error": "^0.2.1"
+    "zod-validation-error": "^3.5.4"
   },
   "devDependencies": {
     "@svgr/cli": "^6.3.1",

@@ -1,8 +1,9 @@
 import { NextApiRequest, NextApiResponse } from "next";
 import { Quote } from "../../model";
 import EmailTemplate from "../../utils/email-template";
-import sendGrid from "@sendgrid/mail";
-sendGrid.setApiKey(process.env.SENDGRID_API!);
+import { Resend } from "resend";
+
+const resend = new Resend(process.env.RESEND_API_KEY);
 
 export default async function emailPreview(
   req: NextApiRequest,
@@ -29,16 +30,11 @@ export default async function emailPreview(
   const enquiry = data.doReturn === "one-way" ? "One Way" : "Return";
   const subject = `BHXTravel - A new enquiry ${enquiry} ${data.pickup} -> ${data.dropOff}`;
 
-  await sendGrid.send({
+  await resend.emails.send({
     to: process.env.QUOTE_TO!,
-    from: process.env.SENDGRID_API_FROM!,
+    from: process.env.RESEND_FROM!,
     subject: subject,
     html: EmailTemplate(data as Quote),
-    mailSettings: {
-      sandboxMode: {
-        enable: process.env.SENDGRID_SANDBOX === "enable",
-      },
-    },
   });
 
   res.status(200).end(

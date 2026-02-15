@@ -34,8 +34,8 @@ export const NavigationLink = (props: Link) => {
   });
 
   return (
-    <NavLink href={url}>
-      <a className={classes}>{text}</a>
+    <NavLink href={url} className={classes}>
+      {text}
     </NavLink>
   );
 };
