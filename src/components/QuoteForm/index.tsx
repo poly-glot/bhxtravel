@@ -75,9 +75,13 @@ const QuoteForm = () => {
   );
 
   const onChange = useCallback(
-    (evt: ChangeEvent<HTMLInputElement & HTMLSelectElement>) => {
-      const { type, name, checked, value: inputValue } = evt.target;
-      const value = type === "checkbox" ? checked : inputValue;
+    (evt: ChangeEvent<HTMLInputElement | HTMLSelectElement>) => {
+      const target = evt.target;
+      const name = target.name;
+      const value =
+        target instanceof HTMLInputElement && target.type === "checkbox"
+          ? target.checked
+          : target.value;
 
       setSubmissions({
         ...submissons,

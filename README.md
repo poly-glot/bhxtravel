@@ -6,7 +6,7 @@ This [NextJS](https://nextjs.org/) project is powered by [Builder.io](https://ww
 ![Overall infrastructure overview](docs/infrastructure.drawio.svg?raw=true "Overview")
 
 ## Prerequisites
-- [Nodejs 18+](https://nodejs.org/en/download/)
+- [Nodejs 22+](https://nodejs.org/en/download/)
 
 ## Getting Started
 1. Install all dependencies
